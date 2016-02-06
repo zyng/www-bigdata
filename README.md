@@ -4,9 +4,9 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [MU-DZ](stacjonarne.md)
-* [MU-ZAO](niestacjonarne.md)
-* [L-ZAO](licencjat.md)
+* [stacjonarne](stacjonarne.md)
+* [niestacjonarne](niestacjonarne.md)
+* [licencjat](licencjat.md)
 
 
 ## Git & LaTeX
