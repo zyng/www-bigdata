@@ -98,6 +98,7 @@ D. frameworka *Meteor*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
 Są to nazwy własne pochodzące z języka angielskiego.
 
+
 ### Bibliografia
 
 1\. „Junior” po nazwisku.
@@ -134,6 +135,11 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 1. powinno zawierać powód dlaczego poruszyło się taki temat
 1. należy odnieść się do dorobku innych
+
+Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku”:
+
+1. [s. 482](images/piketty-482.png)
+1. [s. 491](images/piketty-491.png)
 
 
 ## The Science of Scientific Writing
