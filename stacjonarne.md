@@ -17,4 +17,14 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-TODO
+1. Adamaszek Patryk
+1. Czarnecki Sebastian
+1. Człapiński Bogusław
+1. Grzesiak Daniel
+1. Jaworski Adrian
+1. Kacprowicz Piotr
+1. Kospat Pawłowska Natalia
+1. Krzyżanowski Piotr
+1. Lewandowski Piotr
+1. Małyszczuk Daniel
+1. Strzała Marek
