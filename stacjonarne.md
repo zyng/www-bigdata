@@ -20,6 +20,8 @@
 1. Adamaszek Patryk
 1. Czarnecki Sebastian
 1. Człapiński Bogusław
+1. Domurat Szymon
+1. Duwe Oskar
 1. Grzesiak Daniel
 1. Jaworski Adrian
 1. Kacprowicz Piotr
