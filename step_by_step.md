@@ -7,7 +7,6 @@
 1. Powróć do przykładu i przedstaw rozwiązania
    wynikające z poprzedniego punktu.
 
-
 ## Praca magisterska krok po kroku
 
 1. Sformułuj problem.
@@ -21,6 +20,7 @@
 > Write a paper, and give a talk, about any idea,<br>
 > no matter how weedy and insignificant it may seem to you.<br>
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
+
 
 ## Conveying the idea
 

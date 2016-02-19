@@ -58,10 +58,6 @@ biało-czerwony, czary-mary, Gdańsk-Osowa.
 1. Polskie cudzysłowy:
 „Mam nadzieję, że właśnie ta praca magisterska jest »wyjątkowa«”.
 
-<!--
-  To zdanie można zapisać też tak:
-  „Mam nadzieję, że właśnie ta praca magisterska jest *wyjątkowa*”.
--->
 
 ### Język angielski
 
