@@ -4,8 +4,7 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [stacjonarne](stacjonarne.md) – dzisiaj spotykamy się w s. 52
-  <!-- czwartki, g. 10:15, s. 328 -->
+* [stacjonarne](stacjonarne.md) – czwartki, g. 10:15, s. 328
 * [niestacjonarne](niestacjonarne.md)
 * [licencjat](licencjat.md)
 
