@@ -7,4 +7,4 @@
 1. Pająkowski Adrian
 1. Szarafiński Krzysztof
 1. Turzyński Michał
-1. Zieliński Kamil
+1. [Zieliński Kamil](https://github.com/laikkk/praca-magisterska)
