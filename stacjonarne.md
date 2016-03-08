@@ -20,7 +20,7 @@
 1. Adamaszek Patryk
 1. Czarnecki Sebastian
 1. Człapiński Bogusław
-1. Domurat Szymon
+1. [Domurat Szymon](https://github.com/sdomurat/mgr)
 1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
 1. Grzesiak Daniel
 1. Jaworski Adrian
