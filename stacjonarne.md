@@ -25,7 +25,7 @@
 1. Grzesiak Daniel
 1. Jaworski Adrian
 1. Kacprowicz Piotr
-1. Kospat Pawłowska Natalia
+1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
 1. Krzyżanowski Piotr
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
 1. Małyszczuk Daniel
