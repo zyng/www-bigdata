@@ -28,5 +28,5 @@
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
 1. Krzyżanowski Piotr
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
-1. Małyszczuk Daniel
+1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr)
 1. Strzała Marek
