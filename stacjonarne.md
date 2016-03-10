@@ -29,4 +29,4 @@
 1. Krzyżanowski Piotr
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr)
-1. Strzała Marek
+1. [Strzała Marek](https://github.com/MarekAG/mgr)
