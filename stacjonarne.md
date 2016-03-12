@@ -24,7 +24,7 @@
 1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
 1. Grzesiak Daniel
 1. Jaworski Adrian
-1. Kacprowicz Piotr
+1. [Kacprowicz Piotr](https://github.com/Undauted/mgr)
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
 1. Krzyżanowski Piotr
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
