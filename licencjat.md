@@ -7,3 +7,4 @@
 1. Maciejewski Michał
 1. Krzychowiec Rafał
 1. Paweł Ponieważ
+1. [Michal Lipinski](https://github.com/mlipinski2/licencjat)
