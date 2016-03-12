@@ -1,6 +1,6 @@
 ## Tematy prac licencjackich
 
-1. Wilk Tomasz 12.03
+1. Jessica Tkacz, Tomasz Wilk.
 1. Całus Maciej. [Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Miszczykowski Mariusz 12.03
 1. Czerwińska Agnieszka, Maciejewski Michał. [Unity – Narzędzie dla twórców gier](https://github.com/aczerwinska/FathersLegacy).
