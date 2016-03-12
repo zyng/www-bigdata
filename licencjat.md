@@ -3,7 +3,7 @@
 1. Wilk Tomasz 12.03
 1. Całus Maciej [Bezpieczeństwo - rosnce zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Miszczykowski Mariusz 12.03
-1. Czerwińska Agnieszka, Maciejewski Michał. (https://github.com/aczerwinska/FathersLegacy)
+1. Czerwińska Agnieszka, Maciejewski Michał. [Unity – Narzędzie dla twórców gier](https://github.com/aczerwinska/FathersLegacy)
 1. Rafał Krzychowiec. [ChucK](/).
 1. Paweł Ponieważ
 1. Bartłomiej Warężak
