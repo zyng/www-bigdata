@@ -1,7 +1,7 @@
 ## Tematy prac licencjackich
 
 1. Wilk Tomasz 12.03
-1. Całus Maciej
+1. Całus Maciej [Bezpieczeństwo - rosnce zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Miszczykowski Mariusz 12.03
 1. Czerwińska Agnieszka, Maciejewski Michał.
 1. Rafał Krzychowiec. [ChucK](/).
