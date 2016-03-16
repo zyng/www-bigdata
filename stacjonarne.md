@@ -17,9 +17,9 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. Adamaszek Patryk, 17.03 TKWB-
-1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye), 17.03 KWB-
-1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), 17.03 TKWB-
+1. Adamaszek Patryk, 17.03 TKWB
+1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye), 17.03 KWB
+1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), 17.03 TKWB
 1. [Domurat Szymon](https://github.com/sdomurat/mgr)
 1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
 1. Grzesiak Daniel, 17.03 N
@@ -27,10 +27,10 @@
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr), 17.03 TKWB: Niebezpieczne miejsca na mapie Trójmiasta na podstawie danych policyjnych i użytkowników
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele), 17.03: wstęp z pdf -> markdown
 1. Krzyżanowski Piotr, 17.03 N
-1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), 17.03 KW-
-1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr), 17.03 TKWB-: Aplikacja internetowa klasy ERP dla przedsiębiorstwa transportowego
-1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), 17.03 TKWB-
-1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB-: Projektowanie "czystych" i testowalnych aplikacji Java na system Android przy użyciu frameworków RxJava i Dagger 2
+1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), 17.03 KW
+1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr), 17.03 TKWB: Aplikacja internetowa klasy ERP dla przedsiębiorstwa transportowego
+1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), 17.03 TKWB
+1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB: Projektowanie „czystych” i testowalnych aplikacji Java na system Android przy użyciu frameworków RxJava i Dagger 2
 
 ❖
 
