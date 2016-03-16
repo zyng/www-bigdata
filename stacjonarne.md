@@ -19,7 +19,7 @@
 
 1. Adamaszek Patryk
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye)
-1. Człapiński Bogusław
+1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie)
 1. [Domurat Szymon](https://github.com/sdomurat/mgr)
 1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
 1. Grzesiak Daniel
