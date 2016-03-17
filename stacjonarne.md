@@ -18,6 +18,7 @@
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 1. Adamaszek Patryk, 17.03 TKWB
+1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin)
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye), 17.03 KWB
 1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), 17.03 TKWB
 1. [Domurat Szymon](https://github.com/sdomurat/mgr)
