@@ -1,5 +1,13 @@
 ## Tematy prac licencjackich
 
+Milestones:
+
+1. 06.04.2016 – w repozytorium praca gotowa do korekty
+1. 20.04.2016 – w repozytorium ostateczna wersji pracy
+1. 03.06.2016 – prezentacje/referaty  
+
+----
+
 1. Jessica Tkacz, Tomasz Wilk.
 1. Całus Maciej. [Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Miszczykowski Mariusz 12.03
