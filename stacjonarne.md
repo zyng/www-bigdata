@@ -32,6 +32,7 @@
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr), 17.03 TKWB: Aplikacja internetowa klasy ERP dla przedsiębiorstwa transportowego
 1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), 17.03 TKWB
 1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB: Projektowanie „czystych” i testowalnych aplikacji Java na system Android przy użyciu frameworków RxJava i Dagger 2
+1. [Kiełb Michał](https://github.com/mkielb/masters-thesis)
 
 ❖
 
