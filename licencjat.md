@@ -2,8 +2,8 @@
 
 Milestones:
 
-1. 06.04.2016 – w repozytorium praca gotowa do korekty
-1. 20.04.2016 – w repozytorium ostateczna wersja pracy
+1. 06.05.2016 – w repozytorium praca gotowa do korekty
+1. 20.05.2016 – w repozytorium ostateczna wersja pracy
 1. 03.06.2016 – prezentacje/referaty  
 
 ----
