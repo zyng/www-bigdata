@@ -16,3 +16,15 @@ Milestones:
 1. Paweł Ponieważ
 1. Bartłomiej Warężak
 1. Michał Lipiński, Mariusz Piątek. [Inteli HOME](https://github.com/mlipinski2/licencjat).
+
+----
+
+Referaty z tematyki pracy:
+
+| kiedy?     | kto?            | tytuł |
+| :--------- | :-------------- | :---- |
+| 02.04.2016 |  |       |
+| 02.04.2016 |  |       |
+| 02.04.2016 |  |       |
+| 09.04.2016 |  |       |
+| 09.04.2016 |  |       |
