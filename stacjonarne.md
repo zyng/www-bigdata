@@ -40,7 +40,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 
 ❖
 
-Referaty z tematyki pracy:
+Referaty z tematyki pracy (proszę wpisać tytuł):
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
