@@ -7,7 +7,7 @@
 1. [Pająkowski Adrian](https://github.com/apajakowski/magisterka)
 1. [Zieliński Kamil](https://github.com/laikkk/praca-magisterska)
 
-Referaty z tematyki pracy:
+Referaty z tematyki pracy (proszę wpisać tytuły):
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
@@ -16,4 +16,3 @@ Referaty z tematyki pracy:
 | 03.04.2016 | J. Buczyński    |       |
 | 10.04.2016 | M. Jakóbowski   |       |
 | 10.04.2016 | K. Zieliński    |       |
-| 10.04.2016 | A. Pająkowski   |       |
