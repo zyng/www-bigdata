@@ -12,7 +12,7 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
 | 03.04.2016 | M. Michalski    |       |
-| 03.04.2016 | T. Franckiewicz |       |
+| 03.04.2016 | T. Franckiewicz |RWD: tools, tips & tricks and best practices |
 | 03.04.2016 | J. Buczyński    |       |
 | 10.04.2016 | M. Jakóbowski   |       |
 | 10.04.2016 | K. Zieliński    |       |
