@@ -46,14 +46,14 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    |       |
 | 07.04.2016 | P. Kacprowicz   |       |
-| 07.04.2016 | D. Banasiak     |       |
+| 07.04.2016 | M. Kiełb        |       |
 | 14.04.2016 | D. Grzesiak     |       |
 | 14.04.2016 | A. Jaworski     |       |
-| 14.04.2016 | P. Adamaszek    |       |
+| 14.04.2016 | D. Małyszczuk   |       |
 | 21.04.2016 | N. Kospat J.    |       |
 | 21.04.2016 | P. Krzyżanowski |       |
 | 21.04.2016 | P. Lewandowski  |       |
-| 28.04.2016 | D. Małyszczuk   |       |
+| 28.04.2016 | D. Banasiak     |       |
 | 28.04.2016 | A. Pieper       |       |
 | 28.04.2016 | M. Strzała      |       |
-| 28.04.2016 | M. Kiełb        |       |
+| 28.04.2016 | P. Adamaszek    |       |
