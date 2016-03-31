@@ -46,7 +46,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    |       |
 | 07.04.2016 | P. Kacprowicz   |       |
-| 07.04.2016 | D. Banaszak     |       |
+| 07.04.2016 | D. Banasiak     |       |
 | 14.04.2016 | D. Grzesiak     |       |
 | 14.04.2016 | A. Jaworski     |       |
 | 14.04.2016 | P. Adamaszek    |       |
