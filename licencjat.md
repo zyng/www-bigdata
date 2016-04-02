@@ -30,9 +30,8 @@ Referaty z postępów w pisaniu pracy licencjackiej:
 
 | kiedy?     | kto?  | tytuł |
 | :--------- | :---- | :---- |
-| 02.04.2016 | A. Czerwińska, M. Maciejewski |  |
+| 02.04.2016 | A. Czerwińska, M. Maciejewski, M. Miszczykowski |  |
 | 02.04.2016 | R. Krzychowiec |  |
 | 02.04.2016 | J. Tkacz, T. Wilk |  |
-| 09.04.2016 | M. Lipiński, M. Piątek |  |
+| 09.04.2016 | M. Lipiński, M. Piątek, P. Ponieważ |  |
 | 09.04.2016 | M. Całus |  |
-| 09.04.2016 | M. Miszczykowski |  |
