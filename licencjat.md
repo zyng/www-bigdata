@@ -17,11 +17,11 @@ Milestones:
 1. Maciej Całus.
   [Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Mariusz Miszczykowski 12.03
-1. Agnieszka Czerwińska, Michał Maciejewski.
+1. Agnieszka Czerwińska, Michał Maciejewski, M. Miszczykowski.
   [Unity – Narzędzie dla twórców gier](https://github.com/aczerwinska/FathersLegacy).
 1. Rafał Krzychowiec.
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
-1. Michał Lipiński, Mariusz Piątek.
+1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
 
 ----
