@@ -16,7 +16,6 @@ Milestones:
   [tytuł pracy?](/)
 1. Maciej Całus.
   [Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
-1. Mariusz Miszczykowski 12.03
 1. Agnieszka Czerwińska, Michał Maciejewski, M. Miszczykowski.
   [Unity – Narzędzie dla twórców gier](https://github.com/aczerwinska/FathersLegacy).
 1. Rafał Krzychowiec.
