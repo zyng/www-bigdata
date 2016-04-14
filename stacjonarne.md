@@ -17,9 +17,13 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye)
-1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr)
-1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), 17.03 TKWB
+1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye),
+  Rozpoznawanie zachowań człowieka na podstawie obrazu z wykorzystaniem
+  OpenCV oraz sztucznych sieci neuronowych.
+1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr),
+  Aplikacja mobilna do organizacji przewozu.
+1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska),
+  _nazwa frameworka_ – framework dla terenowych gier RGP
 
 ----
 
