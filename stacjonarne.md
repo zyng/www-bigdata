@@ -23,7 +23,7 @@
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr),
   Aplikacja mobilna do organizacji przewozu.
 1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska),
-  _nazwa frameworka_ – framework dla terenowych gier RGP
+  _nazwa frameworka_ – framework dla terenowych gier RGP.
 
 ----
 
