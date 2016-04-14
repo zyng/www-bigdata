@@ -8,6 +8,11 @@
 * [niestacjonarne](niestacjonarne.md)
 * [licencjat](licencjat.md)
 
+## Deep Learning
+
+* [Torch](http://torch.ch/):
+  - [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
+
 
 ## Git & LaTeX
 
