@@ -16,12 +16,11 @@ Milestones:
   [tytuł pracy?](/)
 1. Maciej Całus.
   [Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
-1. Mariusz Miszczykowski 12.03
-1. Agnieszka Czerwińska, Michał Maciejewski.
-  [Unity – Narzędzie dla twórców gier](https://github.com/aczerwinska/FathersLegacy).
+1. Agnieszka Czerwińska, Michał Maciejewski, M. Miszczykowski.
+  [Wspólczesne tworzenie gier na przykladzie Unity i Unreal Engine.](https://github.com/mmaciejewski/Licencjat).
 1. Rafał Krzychowiec.
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
-1. Michał Lipiński, Mariusz Piątek.
+1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
 
 ----
@@ -30,9 +29,8 @@ Referaty z postępów w pisaniu pracy licencjackiej:
 
 | kiedy?     | kto?  | tytuł |
 | :--------- | :---- | :---- |
-| 02.04.2016 | A. Czerwińska, M. Maciejewski |  |
+| 02.04.2016 | A. Czerwińska, M. Maciejewski, M. Miszczykowski |  |
 | 02.04.2016 | R. Krzychowiec |  |
 | 02.04.2016 | J. Tkacz, T. Wilk |  |
-| 09.04.2016 | M. Lipiński, M. Piątek |  |
+| 09.04.2016 | M. Lipiński, M. Piątek, P. Ponieważ |  |
 | 09.04.2016 | M. Całus |  |
-| 09.04.2016 | M. Miszczykowski |  |
