@@ -52,7 +52,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 14.04.2016 | D. Małyszczuk   |       |
 | 21.04.2016 | N. Kospat J.    |       |
 | 21.04.2016 | P. Krzyżanowski |       |
-| 21.04.2016 | P. Lewandowski  |       |
+| 21.04.2016 | P. Lewandowski  | Problemy związane z agregacją i anailizą danych. Demo. |
 | 28.04.2016 | D. Banasiak     |       |
 | 28.04.2016 | A. Pieper       |       |
 | 28.04.2016 | M. Strzała      |       |
