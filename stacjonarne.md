@@ -62,7 +62,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 14.04.2016 | D. Małyszczuk   |        |
 | 14.04.2016 | A. Pieper       |        |
 | 21.04.2016 | P. Lewandowski  | Problemy związane z agregacją i anailizą danych. Demo. |
-| 21.04.2016 | N. Kospat J.    |        |
+| 21.04.2016 | N. Kospat P.    | Problem responsywności w przypadku tabeli. |
 | 21.04.2016 | P. Krzyżanowski |        |
 | 28.04.2016 | D. Banasiak     |        |
 | 28.04.2016 | M. Strzała      |        |
