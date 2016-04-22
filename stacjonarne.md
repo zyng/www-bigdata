@@ -33,7 +33,7 @@
 1. Grzesiak Daniel, 17.03 N
 1. Jaworski Adrian, 17.03 N
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr),
-  Niebezpieczne miejsca na mapie Trójmiasta na podstawie danych policyjnych i użytkowników
+  Safe3city - niebezpieczne miejsca na mapie Trójmiasta.
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele), 17.03
 1. Krzyżanowski Piotr, 17.03 N
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), 17.03 KW
