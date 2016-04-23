@@ -22,6 +22,8 @@ Milestones:
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
 1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
+1. Tomasz Wasilewski
+  [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md)
 
 ----
 
