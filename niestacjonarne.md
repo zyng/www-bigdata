@@ -9,10 +9,18 @@
 
 Referaty z tematyki pracy (proszę wpisać tytuły):
 
-| kiedy?     | kto?            | tytuł |
-| :--------- | :-------------- | :---- |
-| 03.04.2016 | M. Michalski    |  [Krótko o sztucznej inteligencji](http://slides.com/mateuszmichalski/deck-1/fullscreen#/)     |
-| 03.04.2016 | T. Franckiewicz |[RWD: tools, tips & tricks and best practices](https://prezi.com/cr11l8usmabw/rwd/) |
-| 03.04.2016 | J. Buczyński    |       |
-| 10.04.2016 | M. Jakóbowski   |       |
-| 10.04.2016 | K. Zieliński    |  [Kontroler Internetu Rzeczy](http://1drv.ms/23tBR4I)     |
+| kiedy?      | kto?            | tytuł |
+| :---------- | :-------------- | :---- |
+| 03.04.2016  | M. Michalski    | [Krótko o sztucznej inteligencji](http://slides.com/mateuszmichalski/deck-1/fullscreen#/) |
+| 03.04.2016  | T. Franckiewicz | [RWD: tools, tips & tricks and best practices](https://prezi.com/cr11l8usmabw/rwd/) |
+| 03.04.2016  | J. Buczyński    |  |
+| 10.04.2016  | M. Jakóbowski   |  |
+| 10.04.2016  | K. Zieliński    | [Kontroler Internetu Rzeczy](http://1drv.ms/23tBR4I) |
+| 10.04.2016  | A. Pająkowski   |  |
+| 2. referaty |                 |  |
+| 08.05.2016  | M. Michalski    |  |
+| 08.05.2016  | T. Franckiewicz |  |
+| 08.05.2016  | A. Pająkowski   |  |
+| 22.05.2016  | J. Buczyński    |  |
+| 22.05.2016  | M. Jakóbowski   |  |
+| 22.05.2016  | K. Zieliński    |  |
