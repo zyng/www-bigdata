@@ -31,7 +31,7 @@
 1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin)
 1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), 17.03 TKWB
 1. Grzesiak Daniel, 17.03 N
-1. Jaworski Adrian, 17.03 N
+1. [Jaworski Adrian](https://github.com/emikser/magisterska), 25.04 TK
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr),
   Safe3city - niebezpieczne miejsca na mapie Trójmiasta.
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele), 17.03
