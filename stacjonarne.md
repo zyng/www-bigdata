@@ -64,8 +64,8 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i anailizą danych](https://slides.com/piotrl/data-centric-problems/) |
 | 21.04.2016 | N. Kospat P.    | Problem responsywności w przypadku tabeli. |
 | 21.04.2016 | P. Krzyżanowski |        |
-| 28.04.2016 | D. Banasiak     |        |
-| 28.04.2016 | M. Strzała      |        |
-| 28.04.2016 | P. Adamaszek    |        |
-| 28.04.2016 | D. Grzesiak     |        |
-| 14.04.2016 | A. Jaworski     |        |
+| 05.05.2016 | D. Banasiak     |        |
+| 05.05.2016 | M. Strzała      |        |
+| 05.05.2016 | P. Adamaszek    |        |
+| 12.05.2016 | D. Grzesiak     |        |
+| 12.05.2016 | A. Jaworski     |        |
