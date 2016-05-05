@@ -58,7 +58,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    | tytuł? |
 | 07.04.2016 | P. Kacprowicz   | tytuł? |
-| 07.04.2016 | M. Kiełb        | System zarządzania treścią wykorzystujący komponenty biblioteki *Polymer* |
+| 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis) |
 | 14.04.2016 | D. Małyszczuk   |        |
 | 14.04.2016 | A. Pieper       |        |
 | 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i anailizą danych](https://slides.com/piotrl/data-centric-problems/) |
