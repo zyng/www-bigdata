@@ -37,7 +37,7 @@
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele), 17.03
 1. Krzyżanowski Piotr, 17.03 N
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), 17.03 KW
-1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB: Projektowanie „czystych” i testowalnych aplikacji Java na system Android przy użyciu frameworków RxJava i Dagger 2
+1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB: Wykorzystanie frameworków RxJava i Dagger 2 w tworzeniu aplikacji na system Android zgodnych z filozofią "Clean Code".
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis)
 
 ----
@@ -65,7 +65,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 21.04.2016 | N. Kospat P.    | Problem responsywności w przypadku tabeli. |
 | 21.04.2016 | P. Krzyżanowski |        |
 | 05.05.2016 | D. Banasiak     |        |
-| 05.05.2016 | M. Strzała      |        |
 | 05.05.2016 | P. Adamaszek    |        |
+| 12.05.2016 | M. Strzała      | Opis możliwości frameworków Dagger 2 i RxJava |
 | 12.05.2016 | D. Grzesiak     |        |
 | 12.05.2016 | A. Jaworski     |        |
