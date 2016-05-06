@@ -12,8 +12,6 @@ Milestones:
 
 ----
 
-1. Jessica Tkacz, Tomasz Wilk.
-  [tytuł pracy?](/)
 1. Maciej Całus.
   [Bezpieczeństwo – rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Agnieszka Czerwińska, Michał Maciejewski, M. Miszczykowski.
