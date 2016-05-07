@@ -21,9 +21,9 @@ Milestones:
 1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
 1. Tomasz Wasilewski.
-  [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md)
+  [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md).
 1. Bartłomiej Warezak.
-  [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md)
+  [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md).
 
 ----
 
