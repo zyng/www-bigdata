@@ -14,7 +14,7 @@ Milestones:
 
 1. Maciej Całus.
   [Bezpieczeństwo – rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
-1. Agnieszka Czerwińska, Michał Maciejewski, M. Miszczykowski.
+1. Agnieszka Czerwińska, Michał Maciejewski, Mariusz Miszczykowski.
   [Tworzenie gier w Unity i Unreal Engine](https://github.com/mmaciejewski/Licencjat).
 1. Rafał Krzychowiec.
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
