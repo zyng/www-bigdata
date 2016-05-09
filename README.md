@@ -8,12 +8,14 @@
 * [niestacjonarne](niestacjonarne.md)
 * [licencjat](licencjat.md)
 
+
 ## Deep Learning
 
 * [Torch](http://torch.ch/):
   - [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
 * Adrian Rosebrock. 
   - [OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi](http://www.pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi/)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
 
 
 ## Git & LaTeX
