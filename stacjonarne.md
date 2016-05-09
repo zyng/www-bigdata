@@ -57,7 +57,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    | tytuł? |
-| 07.04.2016 | P. Kacprowicz   | tytuł? |
+| 07.04.2016 | P. Kacprowicz   | [Udostępnianie danych na mapie Trójmiasta i związane z tym aspekty prawne](http://slides.com/undauted/deck-1/fullscreen#/) |
 | 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis) |
 | 14.04.2016 | D. Małyszczuk   |        |
 | 14.04.2016 | A. Pieper       |        |
