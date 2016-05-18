@@ -58,7 +58,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    | tytuł? |
 | 07.04.2016 | P. Kacprowicz   | [Udostępnianie danych na mapie Trójmiasta i związane z tym aspekty prawne](http://slides.com/undauted/deck-1/fullscreen#/) |
-| 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis) |
+| 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis), [Prezentacja 1](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%201%20-%207.04.2016.pdf), [Prezentacja 2](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%202%20-%205.05.2016.pdf) |
 | 14.04.2016 | D. Małyszczuk   |        |
 | 14.04.2016 | A. Pieper       |        |
 | 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i anailizą danych](https://slides.com/piotrl/data-centric-problems/) |
