@@ -59,13 +59,13 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 07.04.2016 | S. Czarnecki    | tytuł? |
 | 07.04.2016 | P. Kacprowicz   | [Udostępnianie danych na mapie Trójmiasta i związane z tym aspekty prawne](http://slides.com/undauted/deck-1/fullscreen#/) |
 | 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis), [Prezentacja 1](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%201%20-%207.04.2016.pdf), [Prezentacja 2](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%202%20-%205.05.2016.pdf) |
-| 14.04.2016 | D. Małyszczuk   |        |
-| 14.04.2016 | A. Pieper       | Przegłąd dostępnych technologii i istniejących aplikacji wykorzystujących AR |
-| 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i anailizą danych](https://slides.com/piotrl/data-centric-problems/) |
-| 21.04.2016 | N. Kospat P.    | Problem responsywności w przypadku tabeli. |
+| 14.04.2016 | D. Małyszczuk   | [Przegląd funkcjonalności wybranych aplikacji transportowych oraz stosowanych technologii](https://github.com/malyszdan/mgr/blob/master/prezentacja/aplikacjaTransportowa.odp) |
+| 14.04.2016 | A. Pieper       | Przegląd dostępnych technologii i istniejących aplikacji wykorzystujących AR |
+| 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i analizą danych](https://slides.com/piotrl/data-centric-problems/) |
+| 21.04.2016 | N. Kospat P.    | Problem responsywności w przypadku tabeli |
 | 21.04.2016 | P. Krzyżanowski |        |
 | 05.05.2016 | D. Banasiak     |        |
-| 05.05.2016 | P. Adamaszek    |        |
 | 12.05.2016 | M. Strzała      | Opis możliwości frameworków Dagger 2 i RxJava |
 | 12.05.2016 | D. Grzesiak     |        |
-| 12.05.2016 | A. Jaworski     |        |
+| 19.05.2016 | A. Jaworski     |        |
+| 19.05.2016 | P. Adamaszek    |        |
