@@ -24,7 +24,7 @@ Milestones:
   [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md).
 1. Bartłomiej Warezak.
   [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md).
-
+1. Jessica Tkacz, Tomasz Wilk. [Aplikacja dla systemu Android usprawniająca kontakty z bliskimi.](https://github.com/twilk/remembrCall)
 ----
 
 Referaty z postępów w pisaniu pracy licencjackiej:
