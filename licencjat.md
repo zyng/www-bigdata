@@ -7,7 +7,7 @@ Milestones:
 1. 08.04.2016 – gotowy spis treści wpisany w pliku _README.md_
 1. 22.04.2016 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem
 1. 06.05.2016 – w repozytorium praca gotowa do korekty
-1. 20.05.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty)
+1. 20.05.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
 1. 03.06.2016 – prezentacje/referaty  
 
 ----
