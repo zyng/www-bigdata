@@ -19,7 +19,7 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | 10.04.2016  | A. Pająkowski   |  |
 | 2. referaty |                 |  |
 | 08.05.2016  | M. Michalski    | [Indigo project](http://slides.com/mateuszmichalski/deck-2/fullscreen#/) |
-| 08.05.2016  | T. Franckiewicz |  |
+| 08.05.2016  | T. Franckiewicz | [Prezentacja makiety](http://dev.tomasz.fr/ug) |
 | 08.05.2016  | A. Pająkowski   |  |
 | 22.05.2016  | J. Buczyński    |  |
 | 22.05.2016  | M. Jakóbowski   |  |
