@@ -1,6 +1,9 @@
 ## Tematy prac licencjackich
 
-Milestones:
+[26.06.2016] – do dnia 2.06.2016 proszę o pull request z **ostateczną wersją**
+tematu pracy licencjackiej.
+
+###  Milestones na egzamin licencjacki *w czerwcu*
 
 1. 01.04.2016 – tytuł pracy, słowa kluczowe, wprowadzenie i literatura
    wpisane w pliku _README.md_ w repozytorium
@@ -10,36 +13,31 @@ Milestones:
 1. 20.05.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
 1. 03.06.2016 – prezentacje/referaty  
 
-----
+Prace licencjackie:
 
-1. Maciej Całus.
-  [Bezpieczeństwo – rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
 1. Agnieszka Czerwińska, Michał Maciejewski, Mariusz Miszczykowski.
   [Tworzenie gier w Unity i Unreal Engine](https://github.com/mmaciejewski/Licencjat).
+
+
+### Milestones na egzamin licencjacki *we wrześniu*
+
+1. 01.08.2016 – tytuł pracy, słowa kluczowe, wprowadzenie i literatura
+   wpisane w pliku _README.md_ w repozytorium, spis treści;
+  wszystko należy wpisać w pliku _README.md_ w repozytorium z pracą
+1. 14.08.2016 – w repozytorium praca gotowa do korekty
+1. 21.08.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
+1. 01.06.2016 – na egzaminie poprawkowym prezentacja programów
+
+Prace licencjackie:
+
 1. Rafał Krzychowiec.
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
 1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
+1. Jessica Tkacz, Tomasz Wilk. [Aplikacja dla systemu Android usprawniająca kontakty z bliskimi](https://github.com/twilk/remembrCall).
+1. Bartłomiej Warężak.
+  [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md).
 1. Tomasz Wasilewski.
   [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md).
-1. Bartłomiej Warezak.
-  [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md).
-1. Jessica Tkacz, Tomasz Wilk. [Aplikacja dla systemu Android usprawniająca kontakty z bliskimi](https://github.com/twilk/remembrCall).
-
-----
-
-Referaty z postępów w pisaniu pracy licencjackiej:
-
-| kiedy?     | kto?  | tytuł |
-| :--------- | :---- | :---- |
-| 02.04.2016 | A. Czerwińska, M. Maciejewski, M. Miszczykowski |  |
-| 02.04.2016 | R. Krzychowiec |  |
-| 02.04.2016 | J. Tkacz, T. Wilk |  |
-| 09.04.2016 | M. Lipiński, M. Piątek, P. Ponieważ |  |
-| 09.04.2016 | M. Całus |  |
-|            |          | majowe referaty |
-| 07.05.2016 | A. Czerwińska, M. Maciejewski, M. Miszczykowski |  |
-| 07.05.2016 | R. Krzychowiec |  |
-| 07.05.2016 | J. Tkacz, T. Wilk |  |
-| 21.05.2016 | M. Lipiński, M. Piątek, P. Ponieważ |  |
-| 21.05.2016 | M. Całus |  |
+1. Maciej Całus.
+  [???](https://github.com/mcalus/licencjat).
