@@ -24,7 +24,8 @@ Prace licencjackie:
   wszystko należy wpisać w pliku _README.md_ w repozytorium z pracą
 1. 14.08.2016 – w repozytorium praca gotowa do korekty
 1. 21.08.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
-1. 01.06.2016 – na egzaminie poprawkowym prezentacja programów
+1. 01.06.2016 – g. 11:00, p. 121 prezentacja programów, załatwienie formalności związanych
+  z oddaniem gotowej pracy
 
 Prace licencjackie:
 
