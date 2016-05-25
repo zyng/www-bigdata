@@ -1,13 +1,12 @@
 ## Tematy prac licencjackich
 
-[26.06.2016] – do dnia 2.06.2016 proszę o pull request z **ostateczną wersją**
+**[26.06.2016]** – do dnia 2.06.2016 proszę o pull request z **ostateczną wersją**
 tematu pracy licencjackiej.
 
 ###  Milestones na egzamin licencjacki *w czerwcu*
 
 1. 01.04.2016 – tytuł pracy, słowa kluczowe, wprowadzenie i literatura
    wpisane w pliku _README.md_ w repozytorium
-1. 08.04.2016 – gotowy spis treści wpisany w pliku _README.md_
 1. 22.04.2016 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem
 1. 06.05.2016 – w repozytorium praca gotowa do korekty
 1. 20.05.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
@@ -21,8 +20,7 @@ Prace licencjackie:
 
 ### Milestones na egzamin licencjacki *we wrześniu*
 
-1. 01.08.2016 – tytuł pracy, słowa kluczowe, wprowadzenie i literatura
-   wpisane w pliku _README.md_ w repozytorium, spis treści;
+1. 01.08.2016 – tytuł pracy, słowa kluczowe, wprowadzenie, literatura i spis treści;
   wszystko należy wpisać w pliku _README.md_ w repozytorium z pracą
 1. 14.08.2016 – w repozytorium praca gotowa do korekty
 1. 21.08.2016 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie))
