@@ -15,7 +15,7 @@ tematu pracy licencjackiej.
 Prace licencjackie:
 
 1. Agnieszka Czerwińska, Michał Maciejewski, Mariusz Miszczykowski.
-  [Tworzenie gier w Unity i Unreal Engine](https://github.com/mmaciejewski/Licencjat).
+  [Tworzenie gier na przykładzie silników Unity i Unreal Engine](https://github.com/mmaciejewski/Licencjat).
 
 
 ### Milestones na egzamin licencjacki *we wrześniu*
