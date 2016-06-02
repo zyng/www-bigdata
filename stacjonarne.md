@@ -17,27 +17,22 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye),
-  Rozpoznawanie zachowań człowieka na podstawie obrazu z wykorzystaniem
-  OpenCV oraz sztucznych sieci neuronowych.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr),
-  Aplikacja mobilna do organizacji przewozu.
+  Aplikacja mobilna do organizacji przewozu
 1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska),
-  _nazwa frameworka_ – framework dla terenowych gier RGP.
+  _nazwa frameworka_ – framework dla terenowych gier RGP
 
 ----
 
-1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie), 17.03 TKWB
+1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie)
 1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin)
-1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), 17.03 TKWB
-1. Grzesiak Daniel, 17.03 N
-1. [Jaworski Adrian](https://github.com/emikser/magisterska), 25.04 TK
-1. [Kacprowicz Piotr](https://github.com/Undauted/mgr),
-  Safe3city - niebezpieczne miejsca na mapie Trójmiasta.
-1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele), 17.03
-1. Krzyżanowski Piotr, 17.03 N
-1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), 17.03 KW
-1. [Strzała Marek](https://github.com/MarekAG/mgr), 17.03 TKWB: Wykorzystanie frameworków RxJava i Dagger 2 w tworzeniu aplikacji na system Android zgodnych z filozofią "Clean Code".
+1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Rozpoznawanie zachowań człowieka na podstawie obrazu z wykorzystaniem OpenCV oraz sztucznych sieci neuronowych
+1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie)
+1. [Jaworski Adrian](https://github.com/emikser/magisterska)
+1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). Safe3city - niebezpieczne miejsca na mapie Trójmiasta.
+1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
+1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
+1. [Strzała Marek](https://github.com/MarekAG/mgr). Wykorzystanie frameworków RxJava i Dagger 2 w tworzeniu aplikacji na system Android zgodnych z filozofią "Clean Code"
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis)
 
 ----
@@ -45,6 +40,10 @@
 1. [Domurat Szymon](https://github.com/sdomurat/mgr)
 1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
 
+<!-- urlop dziekański
+1. Grzesiak Daniel, 17.03 N
+1. Krzyżanowski Piotr, 17.03 N
+-->
 
 ❖
 
