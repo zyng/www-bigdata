@@ -64,7 +64,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł i uaktualnić datę referatu):
 | 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i analizą danych](https://slides.com/piotrl/data-centric-problems/) |
 | 21.04.2016 | N. Kospat P.    | [Problem responsywności w przypadku tabeli](https://bitbucket.org/nkopa/seminarium_responsywnetabele/src/104f8b6b74128878632997e4008d05b1f25ae63f/seminarium_referat_I.pdf) |
 | 21.04.2016 | P. Krzyżanowski |        |
-| 05.05.2016 | D. Banasiak     |        |
+| 05.05.2016 | D. Banasiak     | [Wieloplatformowa aplikacja z użyciem Xamarin & Azure]       |
 | 12.05.2016 | M. Strzała      | [Opis możliwości frameworków Dagger 2 i RxJava](https://docs.google.com/presentation/d/1muewgLxBm3BDfbFZe6zWTn3dyZ91Z_subKXTkdltDE4/edit?usp=sharing) |
 | 12.05.2016 | D. Grzesiak     |        |
 | 19.05.2016 | A. Jaworski     |        |
