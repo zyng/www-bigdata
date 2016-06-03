@@ -31,7 +31,7 @@
 1. [Jaworski Adrian](https://github.com/emikser/magisterska)
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). Safe3city - niebezpieczne miejsca na mapie Trójmiasta.
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
-1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis)
+1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis), Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze
 1. [Strzała Marek](https://github.com/MarekAG/mgr). Wykorzystanie frameworków RxJava i Dagger 2 w tworzeniu aplikacji na system Android zgodnych z filozofią "Clean Code"
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe z biblioteki Polymer
 
