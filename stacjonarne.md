@@ -49,7 +49,6 @@ Proszę o pull request z tematem pracy magisterskiej.
 
 <!-- urlop dziekański
 1. Grzesiak Daniel, 17.03 N
-1. Krzyżanowski Piotr, 17.03 N
 -->
 
 ❖
