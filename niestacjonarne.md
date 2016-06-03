@@ -23,4 +23,4 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | 08.05.2016  | A. Pająkowski   |  |
 | 22.05.2016  | J. Buczyński    |  |
 | 22.05.2016  | M. Jakóbowski   |  |
-| 22.05.2016  | K. Zieliński    |  |
+| 22.05.2016  | K. Zieliński    |  [iGrapho project](https://1drv.ms/p/s!AogBbZBsiJmflEVnmRYuTAmu0Nlv)|
