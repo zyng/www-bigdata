@@ -38,7 +38,7 @@ Proszę o pull request z tematem pracy magisterskiej.
 
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie)
 1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin)
-1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie)
+1. [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie), Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności
 1. [Jaworski Adrian](https://github.com/emikser/magisterska)
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele)
 
