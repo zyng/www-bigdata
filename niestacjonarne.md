@@ -13,7 +13,7 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | :---------- | :-------------- | :---- |
 | 03.04.2016  | M. Michalski    | [Wpływ sztucznej inteligencji na gry komputerowe](http://slides.com/mateuszmichalski/deck-1/fullscreen#/) |
 | 03.04.2016  | T. Franckiewicz | [RWD: tools, tips & tricks and best practices](https://prezi.com/cr11l8usmabw/rwd/) |
-| 03.04.2016  | J. Buczyński    |  |
+| 03.04.2016  | J. Buczyński    | [Zamiana mowy na tekst: prototyp serwera i klienta](https://github.com/jbuczynski/magisterka/tree/master/server_example) |
 | 10.04.2016  | M. Jakóbowski   |  |
 | 10.04.2016  | K. Zieliński    | [Kontroler Internetu Rzeczy](http://1drv.ms/23tBR4I) |
 | 10.04.2016  | A. Pająkowski   |  |
@@ -21,6 +21,6 @@ Referaty z tematyki pracy (proszę wpisać tytuły):
 | 08.05.2016  | M. Michalski    | [Indigo project](http://slides.com/mateuszmichalski/deck-2/fullscreen#/) |
 | 08.05.2016  | T. Franckiewicz | [Prezentacja makiety](http://dev.tomasz.fr/ug) |
 | 08.05.2016  | A. Pająkowski   |  |
-| 22.05.2016  | J. Buczyński    |  |
+| 22.05.2016  | J. Buczyński    | [Prezentacja LDA(ang. linear discriminant analysis, LDA) na przykładzie](https://github.com/jbuczynski/magisterka/tree/master/lda_example) |
 | 22.05.2016  | M. Jakóbowski   |  |
 | 22.05.2016  | K. Zieliński    |  [iGrapho project](https://1drv.ms/p/s!AogBbZBsiJmflEVnmRYuTAmu0Nlv)|
