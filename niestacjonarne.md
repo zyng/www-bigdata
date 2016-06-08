@@ -7,7 +7,7 @@
 1. [Pająkowski Adrian](https://github.com/apajakowski/magisterka)
 1. [Zieliński Kamil](https://github.com/laikkk/praca-magisterska)
 
-Referaty z tematyki pracy (proszę wpisać tytuły):
+Referaty z tematyki pracy:
 
 | kiedy?      | kto?            | tytuł |
 | :---------- | :-------------- | :---- |
