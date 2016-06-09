@@ -31,7 +31,7 @@ Proszę poprawić/zmienić tytuły prac magisterskich.
 
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Rozpoznawanie zachowań człowieka na podstawie obrazu z wykorzystaniem OpenCV oraz sztucznych sieci neuronowych
 1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności
-1. [Strzała Marek](https://github.com/MarekAG/mgr). Wykorzystanie frameworków RxJava i Dagger 2 w tworzeniu aplikacji na system Android zgodnych z filozofią _Clean Code_
+1. [Strzała Marek](https://github.com/MarekAG/mgr). Safe3city - niebezbieczne miejsca w Trójmieście. Aplikacja na system Android.
 
 ----
 
