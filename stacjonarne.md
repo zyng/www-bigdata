@@ -24,14 +24,14 @@
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). Aplikacja mobilna do organizacji przewozu
 1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), _AdventureMaker_ – framework do terenowych gier RGP
-
+1. [Strzała Marek](https://github.com/MarekAG/mgr). Safe3city – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android
+ 
 ----
 
 Proszę poprawić/zmienić tytuły prac magisterskich.
 
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Rozpoznawanie zachowań człowieka na podstawie obrazu z wykorzystaniem OpenCV oraz sztucznych sieci neuronowych
 1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności
-1. [Strzała Marek](https://github.com/MarekAG/mgr). Safe3city - niebezbieczne miejsca w Trójmieście. Aplikacja na system Android.
 
 ----
 
