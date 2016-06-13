@@ -38,7 +38,7 @@ Proszę poprawić/zmienić tytuły prac magisterskich.
 Proszę o pull request z tematem pracy magisterskiej.
 
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie)
-1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin)
+1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin) (Wieloplatformowa aplikacja z użyciem Xamarin & Azure)
 1. [Jaworski Adrian](https://github.com/emikser/magisterska)
 
 ----
