@@ -17,14 +17,14 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin). (Wieloplatformowa aplikacja z użyciem Xamarin & Azure) – *temat za ogólny*
+1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin). Wieloplatformowa aplikacja z użyciem Xamarin & Azure – *temat za ogólny*
 1. [Jaworski Adrian](https://github.com/emikser/magisterska). Koncepcja aplikacji czasu rzeczywistego na podstawie Node.js i biblioteki Socket.io – *nie wiadomo o czym ma być praca; czy zamierzasz na 30+ stronach przedstawiać koncepcję?*
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). Safe3city – niebezpieczne miejsca na mapie Trójmiasta
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe z biblioteki Polymer
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). Aplikacja mobilna do organizacji przewozu
-1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska), _AdventureMaker_ – framework do terenowych gier RGP
+1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska). _AdventureMaker_ – framework do terenowych gier RGP
 1. [Strzała Marek](https://github.com/MarekAG/mgr). Safe3city – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android
 
 
