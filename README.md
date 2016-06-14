@@ -13,7 +13,8 @@ Zagadnienia na egzamin licencjacki z informatyki:
 * [studia stacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-stacjonarne)
 * [studia niestacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-niestacjonarne)
 
-oraz [Zarządzenie omawiające warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
+oraz dokument 
+[omawiający warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
 
 ## Deep Learning
