@@ -39,4 +39,4 @@ Prace licencjackie:
 1. Tomasz Wasilewski.
   [Opis silnika renderujacego stworzonego w technologii OpenGL](https://github.com/twasilewski/seminarium/blob/master/README.md).
 1. Maciej Całus.
-  [???](https://github.com/mcalus/licencjat).
+  [Rosnące zagrożenia dla aplikacji WWW](https://github.com/mcalus/licencjat).
