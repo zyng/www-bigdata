@@ -33,7 +33,8 @@ Prace licencjackie:
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
 1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
-1. Jessica Tkacz, Tomasz Wilk. [Aplikacja dla systemu Android usprawniająca kontakty z bliskimi](https://github.com/twilk/remembrCall).
+1. Jessica Tkacz, Tomasz Wilk.
+  [Aplikacja RemembrCall](https://github.com/twilk/remembrCall)
 1. Bartłomiej Warężak.
   [Katalog produktow online](https://github.com/ketrab27/licencjat/blob/master/README.md).
 1. Tomasz Wasilewski.
