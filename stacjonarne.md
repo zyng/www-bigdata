@@ -17,23 +17,23 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). Aplikacja mobilna (Android) do spotykania się z ludźmi w celu aktywności fizycznej.
+1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
 1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
-1. [Jaworski Adrian](https://github.com/emikser/magisterska). EduConnector - aplikacja internetowa wspomagająca naukę poprzez zabawę.
-1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). Safe3city – niebezpieczne miejsca na mapie Trójmiasta
-1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe z biblioteki Polymer
-1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści
-1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze
-1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). Aplikacja mobilna do organizacji przewozu
-1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska). _AdventureMaker_ – framework do terenowych gier RGP
-1. [Strzała Marek](https://github.com/MarekAG/mgr). Safe3city – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android
-1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Analiza zachowań użytkownika dla samouczącego się systemu centralnego sterowania mieszkaniem
+1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Analiza zachowań użytkownika dla samouczącego się systemu centralnego sterowania mieszkaniem.
+1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EduConnector_ - aplikacja internetowa wspomagająca naukę poprzez zabawę.
+1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
+1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe z biblioteki Polymer.
+1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści.
+1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze.
+1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
+1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska). _AdventureMaker_ – framework do terenowych gier RGP.
+1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 
 ----
 
-Proszę poprawić/zmienić tytuły prac magisterskich.
+Proszę poprawić/zmienić tytuł pracy magisterskiej.
 
-1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności
+1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności.
 
 ----
 
