@@ -17,6 +17,7 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
+1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). Aplikacja mobilna (Android) do spotykania się z ludźmi w celu aktywności fizycznej.
 1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
 1. [Jaworski Adrian](https://github.com/emikser/magisterska). EduConnector - aplikacja internetowa wspomagająca naukę poprzez zabawę.
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). Safe3city – niebezpieczne miejsca na mapie Trójmiasta
@@ -33,12 +34,6 @@
 Proszę poprawić/zmienić tytuły prac magisterskich.
 
 1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności
-
-----
-
-Proszę o pull request z tematem pracy magisterskiej.
-
-1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie) Aplikacja mobilna(Android) do spotykania sie z ludźmi w celu aktywnosci fizycznej.
 
 ----
 
