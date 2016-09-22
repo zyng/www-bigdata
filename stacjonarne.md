@@ -38,7 +38,7 @@ Proszę poprawić/zmienić tytuły prac magisterskich.
 
 Proszę o pull request z tematem pracy magisterskiej.
 
-1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie)
+1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie) Aplikacja mobilna(Android) do spotykania sie z ludźmi w celu aktywnosci fizycznej.
 
 ----
 
