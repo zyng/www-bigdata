@@ -157,6 +157,7 @@ Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku
 
 ## The Science of Scientific Writing
 
+* [The Leek group guide to giving talks](https://github.com/jtleek/talkguide)
 * [Writing paragraphs that make sense—the topic and the stress position](http://serialmentor.com/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 * [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
 * [The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing), [pdf](http://www.inf.fu-berlin.de/lehre/pmo/eng/ScientificWriting.pdf)
