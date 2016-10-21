@@ -1,4 +1,4 @@
-## Referaty, semestr letni 2015/16
+## Seminarium, 2015/16/17
 
 1. [Buczyński Jakub](https://github.com/jbuczynski/magisterka)
 1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/mgr)
@@ -7,7 +7,27 @@
 1. [Pająkowski Adrian](https://github.com/apajakowski/magisterka)
 1. [Zieliński Kamil](https://github.com/laikkk/praca-magisterska)
 
-Referaty z tematyki pracy:
+
+## Referaty, semestr letni 2016/17
+
+| kiedy?      | kto?            | tytuł |
+| :---------- | :-------------- | :---- |
+| | Buczyński J.    | |
+| | Franckiewicz T. | |
+| | Jakóbowski M.   | |
+| | Michalski M.    | |
+| | Pająkowski A.   | |
+| | Zieliński K.    | |
+| 2. referat  | |
+| | Buczyński J.    | |
+| | Franckiewicz T. | |
+| | Jakóbowski M.   | |
+| | Michalski M.    | |
+| | Pająkowski A.   | |
+| | Zieliński K.    | |
+
+
+## Referaty, semestr letni 2015/16
 
 | kiedy?      | kto?            | tytuł |
 | :---------- | :-------------- | :---- |
@@ -17,7 +37,7 @@ Referaty z tematyki pracy:
 | 10.04.2016  | M. Jakóbowski   | [Uczenie maszynowe języka za pomocą rekurencyjnych sieci neuronowych](http://1drv.ms/23tBR4I) |
 | 10.04.2016  | K. Zieliński    | [Kontroler Internetu Rzeczy](http://1drv.ms/23tBR4I) |
 | 10.04.2016  | A. Pająkowski   | [Social Media - praktyczne i niepraktyczne zastosowania](https://slides.com/apajakowski/deck-1#/) |
-| 2. referaty |                 |  |
+| 2. referat  |                 |  |
 | 08.05.2016  | M. Michalski    | [Indigo project](http://slides.com/mateuszmichalski/deck-2/fullscreen#/) |
 | 08.05.2016  | T. Franckiewicz | [Prezentacja makiety](http://dev.tomasz.fr/ug) |
 | 08.05.2016  | A. Pająkowski   | [Dron - rozpoznawanie twarzy](https://slides.com/apajakowski/deck-2#/) |
