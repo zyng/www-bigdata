@@ -38,18 +38,18 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
-| Adamaszek P. |  |  |
-| Czarnecki S. |  |  |
-| Człapiński B. |  |  |
-| Grzesiak D. |  |  |
-| Jaworski A. |  |  |
-| Kacprowicz P. |  |  |
-| Kiełb M. |  |  |
-| Kospat-Pawłowska N. |  |  |
-| Lewandowski P. |  |  |
-| Małyszczuk D. |  |  |
-| Pieper A. |  |  |
-| Strzała M. |  |  |
+| | Adamaszek P. | |
+| | Czarnecki S. | |
+| | Człapiński B. | |
+| | Grzesiak D. | |
+| | Jaworski A. | |
+| | Kacprowicz P. | |
+| | Kiełb M. | |
+| | Kospat-Pawłowska N. | |
+| | Lewandowski P. | |
+| | Małyszczuk D. | |
+| | Pieper A. | |
+| | Strzała M. | |
 
 
 ## Referaty, semestr letni 2015/16
