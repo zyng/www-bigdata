@@ -1,4 +1,4 @@
-## Referaty, semestr letni 2015/16
+## Tematy prac magisterskich
 
 > Another trait, it took me a while to notice. I noticed the following
 > facts about people who work with the door open or the door closed. I
@@ -29,22 +29,30 @@
 1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska). _AdventureMaker_ – framework do terenowych gier RGP.
 1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 
-----
-
-Proszę poprawić/zmienić tytuł pracy magisterskiej.
-
-1. [**proszę dodać Issues do repozytorium**] [Człapiński Bogusław](https://bitbucket.org/bczlapinski/seminarium-magisterskie). Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego współczynnika użyteczności.
-
-----
-
-1. [Domurat Szymon](https://github.com/sdomurat/mgr)
-1. [Duwe Oskar](https://github.com/Linuksiarz/OmniDaemon)
-
-❖
-
+<!--
 Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, N – nic nie ma.
+-->
 
-❖
+
+## Referaty, semestr zimowy 2016/17
+
+| kiedy?     | kto?            | tytuł |
+| :--------- | :-------------- | :---- |
+| Adamaszek P. |  |  |
+| Czarnecki S. |  |  |
+| Człapiński B. |  |  |
+| Grzesiak D. |  |  |
+| Jaworski A. |  |  |
+| Kacprowicz P. |  |  |
+| Kiełb M. |  |  |
+| Kospat-Pawłowska N. |  |  |
+| Lewandowski P. |  |  |
+| Małyszczuk D. |  |  |
+| Pieper A. |  |  |
+| Strzała M. |  |  |
+
+
+## Referaty, semestr letni 2015/16
 
 Referaty z tematyki pracy (proszę wpisać tytuł i uaktualnić datę referatu):
 
