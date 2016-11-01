@@ -13,7 +13,7 @@
 | kiedy?      | kto?            | tytuł |
 | :---------- | :-------------- | :---- |
 | | Buczyński J.    | |
-| | Franckiewicz T. | |
+| 06.11.2016| Franckiewicz T. | [Redesign strony UG v1.0 pre-alpha](http://inf.ug.tomasz.fr/)|
 | | Jakóbowski M.   | |
 | | Michalski M.    | |
 | | Pająkowski A.   | |
