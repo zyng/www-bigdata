@@ -44,7 +44,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | | Grzesiak D. | |
 | | Jaworski A. | |
 | | Kacprowicz P. | |
-| | Kiełb M. | |
+| 17.10.2016 | Kiełb M. | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%203%20-%2017.10.2016.pdf) |
 | | Kospat-Pawłowska N. | |
 | | Lewandowski P. | |
 | | Małyszczuk D. | |
@@ -60,7 +60,7 @@ Referaty z tematyki pracy (proszę wpisać tytuł i uaktualnić datę referatu):
 | :--------- | :-------------- | :---- |
 | 07.04.2016 | S. Czarnecki    | tytuł? |
 | 07.04.2016 | P. Kacprowicz   | [Udostępnianie danych na mapie Trójmiasta i związane z tym aspekty prawne](https://github.com/Undauted/mgr), [Prezentacja 1](http://slides.com/undauted/deck/fullscreen), [Prezentacja 2](http://slides.com/undauted/deck-1/fullscreen) |
-| 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis), [Prezentacja 1](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%201%20-%207.04.2016.pdf), [Prezentacja 2](https://github.com/mkielb/masters-thesis/blob/master/Prezentacja%202%20-%205.05.2016.pdf) |
+| 07.04.2016 | M. Kiełb        | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis), [Prezentacja 1](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%201%20-%207.04.2016.pdf), [Prezentacja 2](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%202%20-%205.05.2016.pdf) |
 | 14.04.2016 | D. Małyszczuk   | [Przegląd funkcjonalności wybranych aplikacji transportowych oraz stosowanych technologii](https://github.com/malyszdan/mgr/blob/master/prezentacja/aplikacjaTransportowa.odp) |
 | 14.04.2016 | A. Pieper       | [Przegląd dostępnych technologii i istniejących aplikacji wykorzystujących AR](https://github.com/Gergoybey/pracaMagisterska/blob/master/Framework%20dla%20terenowych%20gier%20RPG.pptx) |
 | 21.04.2016 | P. Lewandowski  | [Problemy związane z agregacją i analizą danych](https://slides.com/piotrl/data-centric-problems/) |
