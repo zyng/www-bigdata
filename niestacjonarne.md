@@ -15,7 +15,7 @@
 | | Buczyński J.    | |
 | 06.11.2016| Franckiewicz T. | [Redesign strony UG v1.0 pre-alpha](http://inf.ug.tomasz.fr/)|
 | | Jakóbowski M.   | |
-| | Michalski M.    | |
+| 27.11.2016| Michalski M.    |[Aplikacja mobilna oceniająca karty odpowiedzi](http://slides.com/mateuszmichalski/deck-1/fullscreen)|
 | | Pająkowski A.   | |
 | | Zieliński K.    | |
 | 2. referat  | |
