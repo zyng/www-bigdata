@@ -43,13 +43,13 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | | Człapiński B. | |
 | | Grzesiak D. | |
 | | Jaworski A. | |
-| | Kacprowicz P. | |
+| 10.10.2016 | Kacprowicz P. | ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
 | 17.10.2016 | Kiełb M. | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%203%20-%2017.10.2016.pdf) |
 | 7.11.2016 | Kospat-Pawłowska N. | [Przykłady responsywnych tabel](https://bitbucket.org/nkopa/seminarium_responsywnetabele/src/078bf37cd49a255aa4b5004808622512907f4314/seminarium_referat_II.pdf) |
 | | Lewandowski P. | |
 | | Małyszczuk D. | |
 | | Pieper A. | |
-| | Strzała M. | |
+| 10.10.2016 | Strzała M. |  ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
 
 
 ## Referaty, semestr letni 2015/16
