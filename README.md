@@ -54,6 +54,20 @@ oraz dokument
 
 * [Korekty tekstu przez internet](http://turbokorekty.pl)
 
+Przytaczanie w pracy nazw rozwiązań:
+
+1. Używanie nazwy rozwiązania wymyślonej przez jego twórcę:
+  * Wystarczy na dole stronny przypis o źródle, w którym to rozwiązanie zostało opisane, a w treści pracy cudzysłowy nie będą wymagane.
+
+2. Używanie nazwy rozwiązania wymyślonej przez jego twórcę, ale nie ma dostępu do oryginalnego źródła, na którym rozwiązanie zostało opisane:
+  * Należy dodać przypis o źródle, w którym znaleziono informację o danym rozwiązaniu i uściślić, że powołujemy się na nazwę, która została przytoczona przez autora źródła, który natomiast przytoczył ją z jeszcze innego źródła. Po umieszczeniu takiego opisu, cudzysłowy w treści pracy nie są konieczne.
+
+3. Używanie nazwy, która nie jest nazwą własną, ale jest używana przez autora źródła, w którym rozwiązanie zostało opisane:
+  * Trzeba dodać przypis o źródle, w którym opisano rozwiązanie i zaznaczyć, że używamy tej nazwy za autorem danego źródła, a cudzysłów w treści pracy nie będzie konieczny.
+
+4. Używanie nazwy, która nie jest nazwą własną, ale autor pracy używa jej dla tzw. skrótu myślowego by przywołać dane rozwiązanie bez każdorazowego opisywania go:
+  * Jeśli w pracy umieści się przypis mówiący o tym, że autor używa danej nazwy do przywołania konkretnego rozwiązania, to w treści pracy można zrezygnować z używania cudzysłowu.
+
 
 ### Język polski (typografia)
 
