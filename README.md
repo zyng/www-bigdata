@@ -54,7 +54,8 @@ oraz dokument
 
 * [Korekty tekstu przez internet](http://turbokorekty.pl)
 
-Przytaczanie w pracy nazw rozwiązań:
+
+### Przytaczanie w pracy nazw rozwiązań
 
 1. Używanie nazwy rozwiązania wymyślonej przez jego twórcę:
   * Wystarczy na dole stronny przypis o źródle, w którym to rozwiązanie zostało opisane, a w treści pracy cudzysłowy nie będą wymagane.
