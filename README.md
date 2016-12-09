@@ -17,15 +17,6 @@ oraz dokument
 [omawiający warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
 
-## Deep Learning
-
-* [Torch](http://torch.ch/):
-  - [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
-* Adrian Rosebrock. 
-  - [OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi](http://www.pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi/)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
-
-
 ## Git & LaTeX
 
 - [ ] Prace przygotowujemy w repozytoriach prywatnych (GitHub lub Bitbucket lub GitLab)
@@ -186,3 +177,4 @@ Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
+1. [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
