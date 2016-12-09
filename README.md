@@ -4,9 +4,11 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [stacjonarne](stacjonarne.md) – czwartki, g. 10:15, s. 328
+* [stacjonarne](stacjonarne.md) – poniedziałki, g. 16:00, s. 309
 * [niestacjonarne](niestacjonarne.md)
+<!--
 * [licencjat](licencjat.md)
+-->
 
 Zagadnienia na egzamin licencjacki z informatyki:
 
