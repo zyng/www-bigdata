@@ -6,6 +6,7 @@
 
 * [stacjonarne](stacjonarne.md) – poniedziałki, g. 16:00, s. 309
 * [niestacjonarne](niestacjonarne.md)
+
 <!--
 * [licencjat](licencjat.md)
 -->
