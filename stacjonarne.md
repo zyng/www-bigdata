@@ -18,7 +18,7 @@
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
-1. [Banasiak Daniel](https://github.com/DanBanasiak/Xamarin). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
+1. [Banasiak Daniel](https://bitbucket.org/DanBanasiak/crossplatformapplication). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Analiza zachowań użytkownika dla samouczącego się systemu centralnego sterowania mieszkaniem.
 1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EduConnector_ - aplikacja internetowa wspomagająca naukę poprzez zabawę.
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
@@ -39,6 +39,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
 | | Adamaszek P. | |
+| 12.12.2016 | Banasiak D. | ["Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk" - omówienie problemu](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
 | | Czarnecki S. | |
 | | Człapiński B. | |
 | | Grzesiak D. | |
