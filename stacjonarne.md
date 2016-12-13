@@ -40,7 +40,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | :--------- | :-------------- | :---- |
 | | Adamaszek P. | |
 | 12.12.2016 | Banasiak D. | ["Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk" - omówienie problemu](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
-| | Czarnecki S. | |
+| 10.10.2016 | Czarnecki S. | ["Alternatywne rozwiązanie MySensors.org"](https://www.mysensors.org/) |
 | | Człapiński B. | |
 | | Grzesiak D. | |
 | | Jaworski A. | |
@@ -51,7 +51,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | | Małyszczuk D. | |
 | | Pieper A. | |
 | 10.10.2016 | Strzała M. |  ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
-
+| 14.11.2016 | Czarnecki S. | ["Prezentacja prototypów kostek oraz architektury Serwera Kostek"](https://docs.google.com/presentation/d/1lApUw8bqQk-fvrcBGunnlf9U9eTYXR68jyxIoUb_1Uc/edit?usp=sharing) |
 
 ## Referaty, semestr letni 2015/16
 
