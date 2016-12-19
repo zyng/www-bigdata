@@ -5,7 +5,7 @@
 
 ### 09.01.2017
 
-* Let's Go Sport - Aplikacja mobilna do spotykania się.
+* Let's Go Sport - Aplikacja mobilna do spotykania się (P. Adamaszek)
 
 ### 16.01.2017
 
