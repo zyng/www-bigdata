@@ -26,7 +26,7 @@
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści.
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
-1. [Pieper Adrian](https://github.com/Gergoybey/pracaMagisterska). _AdventureMaker_ – framework do terenowych gier RGP.
+1. [Pieper Adrian](https://github.com/adrpieper/magisterka). _AdventureMaker_ – framework do terenowych gier RGP.
 1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 
 <!--
@@ -49,7 +49,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | 7.11.2016 | Kospat-Pawłowska N. | [Przykłady responsywnych tabel](https://bitbucket.org/nkopa/seminarium_responsywnetabele/src/078bf37cd49a255aa4b5004808622512907f4314/seminarium_referat_II.pdf) |
 | 17.10.2016 | Lewandowski P. | [Kopalnie danych - Jak wykorzystuję dane z publicznych API](http://slides.com/piotrl/data-find-outs/) |
 | | Małyszczuk D. | |
-| | Pieper A. | |
+| | Pieper A. | [Języki domenowe (DSL)](https://eclipse.org/Xtext/) |
 | 10.10.2016 | Strzała M. |  ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
 | 14.11.2016 | Czarnecki S. | ["Prezentacja prototypów kostek oraz architektury Serwera Kostek"](https://docs.google.com/presentation/d/1lApUw8bqQk-fvrcBGunnlf9U9eTYXR68jyxIoUb_1Uc/edit?usp=sharing) |
 
