@@ -28,6 +28,7 @@
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
 1. [Pieper Adrian](https://github.com/adrpieper/magisterka). _AdventureMaker_ – framework do terenowych gier RGP.
 1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
+1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie)
 
 <!--
 Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, N – nic nie ma.
@@ -41,7 +42,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | | Adamaszek P. | |
 | 12.12.2016 | Banasiak D. | ["Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk" - omówienie problemu](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
 | 10.10.2016 | Czarnecki S. | ["Alternatywne rozwiązanie MySensors.org"](https://www.mysensors.org/) |
-| | Człapiński B. | |
+| | Człapiński B. | [" Biblioteka AMP](https://bitbucket.org/bczlapinski/seminarium-magisterskie/src/b79e6bc4c2fb21f22578612fa11f343594fad13b/PrezentacjaAMP.pptx?at=master&fileviewer=file-view-default) |
 | | Grzesiak D. | |
 | | Jaworski A. | |
 | 10.10.2016 | Kacprowicz P. | ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
