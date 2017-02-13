@@ -70,4 +70,4 @@ Referaty z tematyki pracy (proszę wpisać tytuł i uaktualnić datę referatu):
 | 05.05.2016 | D. Banasiak     | Wieloplatformowa aplikacja z użyciem Xamarin & Azure |
 | 12.05.2016 | M. Strzała      | [Opis możliwości frameworków Dagger 2 i RxJava](https://docs.google.com/presentation/d/1muewgLxBm3BDfbFZe6zWTn3dyZ91Z_subKXTkdltDE4/edit?usp=sharing) |
 | 19.05.2016 | A. Jaworski     |        |
-| 19.05.2016 | P. Adamaszek    |        |
+| 19.05.2016 | P. Adamaszek    | [Let'sGoSport aplikacja do spotkań w celach sportowych ](https://app.slidebean.com/p/rXJ5mrypP7/Praca-Magisterska)       |
