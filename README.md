@@ -4,7 +4,7 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [stacjonarne](stacjonarne.md) – poniedziałki, g. 16:00, s. 309
+* [stacjonarne](stacjonarne.md) – środy, g. 10:30, s. 52
 * [niestacjonarne](niestacjonarne.md)
 
 <!--
