@@ -30,9 +30,11 @@
 1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie)
 
-<!--
-Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, N – nic nie ma.
--->
+
+## Referaty, semestr letni 2016/17
+
+| kiedy?     | kto?            | tytuł |
+| :--------- | :-------------- | :---- |
 
 
 ## Referaty, semestr zimowy 2016/17
