@@ -41,17 +41,16 @@
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
-| | Adamaszek P. | |
-| 12.12.2016 | Banasiak D. | ["Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk" - omówienie problemu](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
-| 10.10.2016 | Czarnecki S. | ["Alternatywne rozwiązanie MySensors.org"](https://www.mysensors.org/) |
-| | Człapiński B. | [" Biblioteka AMP](https://bitbucket.org/bczlapinski/seminarium-magisterskie/src/b79e6bc4c2fb21f22578612fa11f343594fad13b/PrezentacjaAMP.pptx?at=master&fileviewer=file-view-default) |
-| 10.10.2016 | Kacprowicz P. | ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
+| 12.12.2016 | Banasiak D. | [Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
+| 10.10.2016 | Czarnecki S. | [Alternatywne rozwiązanie MySensors.org](https://www.mysensors.org/) |
+| | Człapiński B. | [Biblioteka AMP](https://bitbucket.org/bczlapinski/seminarium-magisterskie/src/b79e6bc4c2fb21f22578612fa11f343594fad13b/PrezentacjaAMP.pptx?at=master&fileviewer=file-view-default) |
+| 10.10.2016 | Kacprowicz P. | [Safe3City -- bezpieczne Trójmiasto](https://slides.com/marekstrzala/safe3city1) |
 | 17.10.2016, 5.12.2016 | Kiełb M. | [System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer*](https://github.com/mkielb/masters-thesis), [Prezentacja 1](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%203%20-%2017.10.2016.pdf), [Prezentacja 2](https://github.com/mkielb/masters-thesis/blob/master/presentations/Prezentacja%204%20-%205.12.2016.pdf) |
 | 7.11.2016 | Kospat-Pawłowska N. | [Przykłady responsywnych tabel](https://bitbucket.org/nkopa/seminarium_responsywnetabele/src/078bf37cd49a255aa4b5004808622512907f4314/seminarium_referat_II.pdf) |
-| 17.10.2016 | Lewandowski P. | [Kopalnie danych - Jak wykorzystuję dane z publicznych API](http://slides.com/piotrl/data-find-outs/) |
+| 17.10.2016 | Lewandowski P. | [Jak wykorzystuję dane z publicznych API?](http://slides.com/piotrl/data-find-outs/) |
 | | Pieper A. | [Języki domenowe (DSL)](https://eclipse.org/Xtext/) |
-| 10.10.2016 | Strzała M. |  ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
-| 14.11.2016 | Czarnecki S. | ["Prezentacja prototypów kostek oraz architektury Serwera Kostek"](https://docs.google.com/presentation/d/1lApUw8bqQk-fvrcBGunnlf9U9eTYXR68jyxIoUb_1Uc/edit?usp=sharing) |
+| 10.10.2016 | Strzała M. |  [Safe3City -- bezpieczne Trójmiasto](https://slides.com/marekstrzala/safe3city1) |
+| 14.11.2016 | Czarnecki S. | [Prezentacja prototypów kostek oraz architektury Serwera Kostek](https://docs.google.com/presentation/d/1lApUw8bqQk-fvrcBGunnlf9U9eTYXR68jyxIoUb_1Uc/edit?usp=sharing) |
 
 ## Referaty, semestr letni 2015/16
 
