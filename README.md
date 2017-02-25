@@ -16,7 +16,7 @@ Zagadnienia na egzamin licencjacki z informatyki:
 * [studia stacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-stacjonarne)
 * [studia niestacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-niestacjonarne)
 
-oraz dokument 
+oraz dokument
 [omawiający warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
 
@@ -145,20 +145,21 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 
 [Streszczenie](http://www.pracamagisterska.net/streszczenie) (maks. 0,5 strony):
 
-1. powinno zawierać omówienie głównych tez pracy magisterskiej,
-  celów jakie autor sobie postawił
-1. powinno zawierać informację czy udało się je zrealizować
-1. należy także napisać jakimi metodami, technologiami się posłużono
+1. należy napisać co zrobiono
+1. należy napisać jakimi metodami, technologiami się posłużono
   i jakie to przyniosło efekty
+1. powinno zawierać omówienie głównych tez pracy magisterskiej,
+  celów jakie autor sobie postawił (opcjonalnie)
+1. powinno zawierać informację czy udało się je zrealizować (opcjonalnie)
 
 [Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (maks. 2-3 strony):
 
-1. jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
-1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 1. powinno zawierać powód dlaczego poruszyło się taki temat
 1. należy odnieść się do dorobku innych
+1. jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
+1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 
-Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku”:
+Obrazki, tabelki, itp. Opisy takie jak w książce T. Piketty, „Kapitał w XXI wieku”:
 
 1. [s. 482](images/piketty-482.png)
 1. [s. 491](images/piketty-491.png)
