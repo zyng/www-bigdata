@@ -4,7 +4,7 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [stacjonarne](stacjonarne.md) – poniedziałki, g. 16:00, s. 309
+* [stacjonarne](stacjonarne.md) – środy, g. 10:30, s. 52
 * [niestacjonarne](niestacjonarne.md)
 
 <!--
@@ -143,7 +143,7 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. w tytule unikamy pojęć wieloznacznych
 1. nie powinien być zbyt ogólny
 
-[Streszczenie](http://www.pracamagisterska.net/streszczenie) (0,5 strony):
+[Streszczenie](http://www.pracamagisterska.net/streszczenie) (maks. 0,5 strony):
 
 1. powinno zawierać omówienie głównych tez pracy magisterskiej,
   celów jakie autor sobie postawił
@@ -151,7 +151,7 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. należy także napisać jakimi metodami, technologiami się posłużono
   i jakie to przyniosło efekty
 
-[Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (2-3 strony):
+[Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (maks. 2-3 strony):
 
 1. jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
 1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**

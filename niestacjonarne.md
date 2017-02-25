@@ -8,23 +8,25 @@
 1. [Zieliński Kamil](https://github.com/laikkk/praca-magisterska)
 
 
+### Milestones
+
+**11.05.2017** – gotowy pdf z tekstem pracy mgr przygotowanej w LaTeXu, aplikacja wdrożona, całość w repozytorium (w pliku README wpisane tytuł, słowa kluczowe, streszczenie, wstęp, spis treści i bibliografia); ew. można złożyć podanie do dziekana z prośbą o przedłużenie terminu oddania pracy do 30.09.2017
+
+**16.09.2017** – drugi termin na złożenie pracy mgr
+
+
 ## Referaty, semestr letni 2016/17
 
 | kiedy?      | kto?            | tytuł |
 | :---------- | :-------------- | :---- |
-| | Buczyński J.    | |
-| 06.11.2016| Franckiewicz T. | [Redesign strony UG v1.0 pre-alpha](http://inf.ug.tomasz.fr/)|
-| | Jakóbowski M.   | |
-| 27.11.2016| Michalski M.    |[Aplikacja mobilna oceniająca karty odpowiedzi](http://slides.com/mateuszmichalski/deck-1/fullscreen)|
-| | Pająkowski A.   | |
-| | Zieliński K.    | |
-| 2. referat  | |
-| | Buczyński J.    | |
-| | Franckiewicz T. | |
-| | Jakóbowski M.   | |
-| | Michalski M.    | |
-| | Pająkowski A.   | |
-| | Zieliński K.    | |
+
+
+## Referaty, semestr zimowy 2016/17
+
+| kiedy?      | kto?            | tytuł |
+| :---------- | :-------------- | :---- |
+| 06.11.2016  | Franckiewicz T. | [Redesign strony UG v1.0 pre-alpha](http://inf.ug.tomasz.fr/)|
+| 27.11.2016  | Michalski M.    | [Aplikacja mobilna oceniająca karty odpowiedzi](http://slides.com/mateuszmichalski/deck-1/fullscreen)|
 
 
 ## Referaty, semestr letni 2015/16
