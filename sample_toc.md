@@ -26,7 +26,7 @@
    czy automatycznie, czy manualnie i w jakim zakresie*]
    - Scenariusz testowania [*jak będziemy testować konkretne funkcjonalności*]
    - Raport z testów [*tabelka pokazująca jak zaliczono/nie zaliczono scenariusze testowe*]
-5. Wkład własny [*obowiązkowo, ogólny podział prac w projekcie, czym konkretnie
+5. Wkład własny (dot. prac zespołowych) [*obowiązkowo, ogólny podział prac w projekcie, czym konkretnie
    w projekcie student się zajmował w poszczególnych fazach/etapach projektu*]
 6. Bibliografia [*obowiązkowo, głównie dokumentacja techniczna, książki z inżynierii
    oprogramowania ale także artykuły z sieci, blogi, nawet wikipedia*]
