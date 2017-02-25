@@ -12,6 +12,8 @@
 
 **11.05.2017** – gotowy pdf z tekstem pracy mgr przygotowanej w LaTeXu, aplikacja wdrożona, całość w repozytorium (w pliku README wpisane tytuł, słowa kluczowe, streszczenie, wstęp, spis treści i bibliografia); ew. można złożyć podanie do dziekana z prośbą o przedłużenie terminu oddania pracy do 30.09.2017
 
+**27.05.2016** – prezentacje
+
 **31.08.2017** – drugi termin na złożenie pracy mgr
 
 

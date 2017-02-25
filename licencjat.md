@@ -5,11 +5,11 @@
     streszczenie, wstęp i literaturę
 1. ??.??.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem
 1. ??.??.2017 – w repozytorium praca gotowa do korekty
-1. ??.??.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
+1. 11.05.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
    dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie));
    ewentualnie można złożyć podanie do dziekana z prośbą o przedłużenie
    terminu oddania pracy do 31.08.2017
-1. ??.??.2016 – prezentacje
+1. 27.05.2016 – prezentacje
 
 ## Tematy prac licencjackich
 
