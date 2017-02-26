@@ -15,4 +15,4 @@
 
 
 ### 08.03.2017
-
+- Piotr Lewandowski (result of data analysis)
