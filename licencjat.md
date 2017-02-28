@@ -13,7 +13,7 @@
 
 ## Tematy prac licencjackich
 
-1. Marcin Dawidowski
+1. [Marcin Dawidowski](https://github.com/mdawidowski/praca_licencjacka)
 1. Mateusz Kleina
 1. Karol Klimaszewski
 1. Kamil Pek
