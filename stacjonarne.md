@@ -30,6 +30,7 @@
 1. [Strzała Marek](https://github.com/MarekAG/mgr). _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
 1. [Paweł Zawodny] (https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
+1. [Łukasz Jercha] (https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
 
 
 ## Referaty, semestr letni 2016/17
