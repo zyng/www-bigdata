@@ -1,6 +1,6 @@
 ##  Milestones na egzamin licencjacki *w czerwcu*
 
-1. 04.04.20177 – pull request do z linkiem do repozytorium z plikiem
+1. 04.03.20177 – pull request do z linkiem do repozytorium z plikiem
     _README.md_ w którym wpisano tytuł pracy, autora, słowa kluczowe,
     streszczenie, wstęp i literaturę
 1. ??.??.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem
