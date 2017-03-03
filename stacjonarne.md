@@ -31,6 +31,7 @@
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
 1. [Paweł Zawodny] (https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 1. [Łukasz Jercha] (https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
+1. [Szymon Domurat] (https://github.com/sdomurat/mgr). Serwisy internetowe korzystające z Web Components.
 
 
 ## Referaty, semestr letni 2016/17
