@@ -20,6 +20,7 @@
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
 1. [Banasiak Daniel](https://bitbucket.org/DanBanasiak/crossplatformapplication). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Analiza zachowań użytkownika dla samouczącego się systemu centralnego sterowania mieszkaniem.
+1. [Szymon Domurat] (https://github.com/sdomurat/mgr). Serwisy internetowe korzystające z Web Components.
 1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EduConnector_ - aplikacja internetowa wspomagająca naukę poprzez zabawę.
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe z biblioteki Polymer.
@@ -31,7 +32,6 @@
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
 1. [Paweł Zawodny] (https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 1. [Łukasz Jercha] (https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
-1. [Szymon Domurat] (https://github.com/sdomurat/mgr). Serwisy internetowe korzystające z Web Components.
 
 
 ## Referaty, semestr letni 2016/17
