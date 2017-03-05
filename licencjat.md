@@ -18,6 +18,6 @@
 1. [Mateusz Kleina](https://github.com/kirin1994/Licencjat)
 1. Karol Klimaszewski 4.03
 1. [Kamil Pek](https://github.com/kamilpek/licencjat)
-1. [Dominika Pienczyn] (https://github.com/dpienczyn/praca_licencjat) 4.03
+1. [Dominika Pienczyn](https://github.com/dpienczyn/praca_licencjat) 4.03
 1. [Adrian Podlawski](https://github.com/kirin1994/Licencjat) 4.03
 1. Marcin Szpaderski 4.03
