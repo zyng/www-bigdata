@@ -16,3 +16,8 @@
 
 ### 08.03.2017
 - Piotr Lewandowski (result of data analysis)
+
+
+
+### 15.03.2017
+- Natalia Kospat Pawłowska (przedstawienie biblioteki)
