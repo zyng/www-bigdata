@@ -20,4 +20,4 @@
 1. [Kamil Pek](https://github.com/kamilpek/licencjat) 18.03
 1. [Dominika Pienczyn](https://github.com/dpienczyn/praca_licencjat) 4.03 18.03
 1. [Adrian Podlawski](https://github.com/kirin1994/Licencjat) 4.03
-1. Marcin Szpaderski 4.03 18.03
+1. [Marcin Szpaderski](https://github.com/mszpaderski/Sem) 4.03 18.03
