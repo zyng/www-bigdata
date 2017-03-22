@@ -6,23 +6,16 @@
 
 **16.09.2017** – drugi termin na złożenie pracy mgr
 
-### 22.02.2017
-
-
-
-### 01.03.2017
-
-
-
 ### 08.03.2017
+
 - Piotr Lewandowski (result of data analysis)
 
-
-
 ### 15.03.2017
+
 - Natalia Kospat Pawłowska (przedstawienie biblioteki)
 - Adrian Pieper (prezentacja frameworku)
 
 
 ### 21.03.2017
+
 - Michał Kiełb (przedstawienie postępów)
