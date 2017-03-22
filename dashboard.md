@@ -22,3 +22,7 @@
 ### 15.03.2017
 - Natalia Kospat Pawłowska (przedstawienie biblioteki)
 - Adrian Pieper (prezentacja frameworku)
+
+
+### 21.03.2017
+- Michał Kiełb (przedstawienie postępów)
