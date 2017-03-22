@@ -16,6 +16,6 @@
 - Adrian Pieper (prezentacja frameworku)
 
 
-### 21.03.2017
+### 22.03.2017
 
 - Michał Kiełb (przedstawienie postępów)
