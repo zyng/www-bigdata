@@ -14,10 +14,10 @@
 
 ## Tematy prac licencjackich
 
-1. [Marcin Dawidowski](https://github.com/mdawidowski/praca_licencjacka) 18.03
-1. [Mateusz Kleina](https://github.com/kirin1994/Licencjat) 18.03
-1. [Karol Klimaszewski](https://github.com/KKlimaszewski1/licencjat) 4.03 18.03
-1. [Kamil Pek](https://github.com/kamilpek/licencjat) 18.03
-1. [Dominika Pienczyn](https://github.com/dpienczyn/praca_licencjat) 4.03 18.03
-1. [Adrian Podlawski](https://github.com/kirin1994/Licencjat) 4.03
-1. [Marcin Szpaderski](https://github.com/mszpaderski/Sem) 4.03 18.03
+1. [Marcin Dawidowski](https://github.com/mdawidowski/praca_licencjacka)
+1. [Mateusz Kleina](https://github.com/kirin1994/Licencjat) 25.03
+1. [Karol Klimaszewski](https://github.com/KKlimaszewski1/licencjat) 4.03
+1. [Kamil Pek](https://github.com/kamilpek/licencjat)
+1. [Dominika Pienczyn](https://github.com/dpienczyn/praca_licencjat) 4.03 18.03 25.03
+1. [Adrian Podlawski](https://github.com/kirin1994/Licencjat) 4.03 25.03
+1. [Marcin Szpaderski](https://github.com/mszpaderski/Sem) 4.03 18.03 25.03
