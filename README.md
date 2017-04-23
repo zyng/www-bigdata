@@ -132,6 +132,15 @@ a w USA – Adam XXX Jr.  (duże J i kropka na końcu).
 W naszych bibliografiach będzie zawsze Jr.
 Do tej pory nie widziałem na polskich stronach autora juniora :bowtie:
 
+2\. Jak cytować rzeczy znalezione na stronach WWW?
+
+* Ch. Lee,
+  [How to Cite Something You Found on a Website in APA Style](http://blog.apastyle.org/apastyle/2010/11/how-to-cite-something-you-found-on-a-website-in-apa-style.html).
+* Ch. Lee.
+  [How to Cite Social Media in APA Style (Twitter, Facebook, and Google+)](http://blog.apastyle.org/apastyle/2013/10/how-to-cite-social-media-in-apa-style.html).
+* Ch. Lee.
+  [How to Cite Twitter and Facebook, Part II: Reference List Entries and In-Text Citations](http://blog.apastyle.org/apastyle/2009/10/how-to-cite-twitter-and-facebook-part-ii.html).
+
 
 ## Elementy pracy magisterskiej
 
