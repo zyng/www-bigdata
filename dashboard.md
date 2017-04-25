@@ -19,3 +19,7 @@
 ### 22.03.2017
 
 - Michał Kiełb (przedstawienie postępów)
+
+### 26.04.2017
+
+- Michał Kiełb (przedstawienie ostatecznej wersji aplikacji i postępów w pracy)
