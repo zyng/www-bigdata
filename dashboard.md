@@ -23,3 +23,7 @@
 ### 26.04.2017
 
 - Michał Kiełb (przedstawienie ostatecznej wersji aplikacji i postępów w pracy)
+
+### 10.05.2017
+
+- Michał Kiełb (omówienie tekstu pracy magisterskiej)
