@@ -27,3 +27,4 @@
 ### 10.05.2017
 
 - Michał Kiełb (omówienie tekstu pracy magisterskiej)
+- Sebastian Czarnecki (omówienie części tekstu oraz prezentacja ostatecznej wersji aplikacji)
