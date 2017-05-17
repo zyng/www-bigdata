@@ -36,3 +36,4 @@
 ### 17.05.2017
 
 - Piotr Lewandowski (omówienie tekstu pracy magisterskiej)
+- Michał Kiełb (omówienie tekstu pracy magisterskiej)
