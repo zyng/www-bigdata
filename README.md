@@ -74,7 +74,7 @@ Jednoliterowe spójniki i przyimki (a, i, u, w itd.) mogą pozostawać na koń
 w tekście ciągłym, natomiast w tytułach książek
 i ich rozdziałów winny być przenoszone do następnego wiersza.
 
-1. [Kreski poziome](http://www.ekorekta24.pl/aktualnosci-jezykowe/16-opracowanie-tekstu/122-myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac):
+1. [Kreski poziome](http://www.ekorekta24.pl/myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac/):
 łącznik i dywiz (-), półpauza (–), pauza (—). Przykłady użycia:
 pauza — to najdłuższa kreska w typografii,
 półpauza – to „pół” pauzy,
