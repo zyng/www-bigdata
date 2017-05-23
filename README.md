@@ -16,8 +16,10 @@ Zagadnienia na egzamin licencjacki z informatyki:
 * [studia stacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-stacjonarne)
 * [studia niestacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-niestacjonarne)
 
-oraz dokument
-[omawiający warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
+oraz
+
+* [wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
+* [warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
 
 ## Git & LaTeX
