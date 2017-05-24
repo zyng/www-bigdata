@@ -46,9 +46,10 @@ oraz
 
 * [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
 
-… i jeszcze jeden link, też tak na wszelki wypadek:
+… i jeszcze dwa linki, też tak na wszelki wypadek:
 
 * [Korekty tekstu przez internet](http://turbokorekty.pl)
+* [eKorekta24.pl - bezpłatne porady językowe](http://www.ekorekta24.pl/)
 
 
 ### Przytaczanie w pracy nazw rozwiązań
@@ -89,11 +90,6 @@ biało-czerwony, czary-mary, Gdańsk-Osowa.
 
 ### Język angielski
 
-1. Nazwy pochodzące z języka angielskiego piszemy kursywą.<br>
-W dawnych czasach, kiedy nie było kursywy pisano tak:<br>
-    wbudowana klasa „InternetAddress”<br>
-Teraz piszemy tylko tak:<br>
-    wbudowana klasa *InternetAddress*
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
 Oriented Architecture*, nazwę należy przetłumaczyć w przypisie
 dolnym. Można w nim zapisać skrót od nazwy (w tym wypadku SOA) i w
@@ -119,9 +115,24 @@ w mowie potocznej.<br>
 Poprawna odmiana:<br>
 M. framework *Meteor*<br>
 D. frameworka *Meteor*
-1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
-Są to nazwy własne pochodzące z języka angielskiego.
 
+### Gdzie stosujemy kursywę?
+1. Nazwy elementów będących w aplikacji np. *Galeria*, *Użytkownicy* itp. (jeżeli nazwa składa się z więcej niż jedno słowo to w pierwszym słowie należy użyć wielkiej litery).
+2. Obcojęzyczne słowa pospolite.
+3. Odniesienie do rozdziału w pracy np. „szczegóły znajdują się w rozdziale 1. *Wprowadzenie*” (kursywa obowiązuje jedynie w przypadku nazwy tytułu rozdziału, bez jego numeru).
+4. Słowa z języka angielskiego, które nie podlegają polskiej odmianie np. *responsive web design*, *progress bar*.
+
+### Gdzie nie stosujemy kursywy?
+1. Wymyślona nazwa aplikacji zarówno w tytule, jak i w całej pracy (wystarczą wielkie litery).
+2. Nazwy aplikacji lub programów np. Wordpress, Joomla, Mozilla Firefox itp. (wystarczą wielkie litery).
+3. Skróty i ich rozwinięcia np. IDE = Integrated Development Environment (wystarczą wielkie litery).
+4. Nazwy technologii np. HTML5, CSS, Ruby on Rails itp. (wystarczą wielkie litery).
+5. Nazwy firmy np. Google (wystarczą wielkie litery).
+6. Obcojęzyczne nazwy własne np. miast, budynków czy znanych miejsc za granicą ([porada](http://sjp.pwn.pl/poradnia/haslo/obce-nazwy-wlasne;14087.html)).
+7. Nazwy klas, funkcji oraz zmiennych z aplikacji np. Component, PageContent.
+8. Nazwy bibliotek, które są użyte na potrzeby aplikacji np. friendly_id, zip-zip, Font Awesome, metisMenu.
+9. Nazwy plików, katalogów, a także całe ścieżki z aplikacji np. Gemfile, app, app/models.
+10. Słowa z języka angielskiego, które podlegają polskiej odmianie np. frontend, backend, routing.
 
 ### Bibliografia
 
