@@ -24,7 +24,7 @@
 1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EasyBlocks_ - interaktywne tworzenie responsywnych stron internetowych.
 1. [Łukasz Jercha](https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
-1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). System zarządzania treścią wykorzystujący komponenty webowe.
+1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). Hookable CMS - system zarządzania treścią wykorzystujący komponenty webowe.
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści.
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.

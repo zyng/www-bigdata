@@ -15,11 +15,25 @@
 - Natalia Kospat Pawłowska (przedstawienie biblioteki)
 - Adrian Pieper (prezentacja frameworku)
 
-
 ### 22.03.2017
 
 - Michał Kiełb (przedstawienie postępów)
 
+### 10.04.2017
+
+- Piotr Lewandowski (przedstawienie prototypu aplikacji)
+
 ### 26.04.2017
 
 - Michał Kiełb (przedstawienie ostatecznej wersji aplikacji i postępów w pracy)
+- Piotr Lewandowski (przedstawienie wykresów i omówienie postępów)
+
+### 10.05.2017
+
+- Michał Kiełb (omówienie tekstu pracy magisterskiej)
+- Sebastian Czarnecki (omówienie części tekstu oraz prezentacja ostatecznej wersji aplikacji)
+
+### 17.05.2017
+
+- Piotr Lewandowski (omówienie tekstu pracy magisterskiej)
+- Michał Kiełb (omówienie tekstu pracy magisterskiej)
