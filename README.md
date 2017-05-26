@@ -137,13 +137,12 @@ D. frameworka *Meteor*
 4. Nazwy technologii np. HTML5, CSS, Ruby on Rails itp (wystarczą wielkie litery).
 5. Nazwy firmy np. Google (wystarczą wielkie litery).
 6. Obcojęzyczne nazwy własne np. miast, budynków czy znanych miejsc za granicą; zob. [porada](http://sjp.pwn.pl/poradnia/haslo/obce-nazwy-wlasne;14087.html).
-7. Nazwy bibliotek, które są użyte na potrzeby aplikacji np. friendly_id, zip-zip, Font Awesome, metisMenu.
-8. Nazwy plików, katalogów, a także całe ścieżki z aplikacji np. Gemfile, app, app/models.
-9. Słowa z języka angielskiego, które podlegają polskiej odmianie np. frontend, backend, routing.
-
+7. Nazwy bibliotek, które są użyte na potrzeby aplikacji np. Font Awesome, jQuery.
+8. Słowa z języka angielskiego, które podlegają polskiej odmianie np. frontendu, backend, routing.
 
 <!-- TODO: O’Reilly
 1. Nazwy klas, funkcji oraz zmiennych z aplikacji np. Component, PageContent.
+1. Nazwy plików, katalogów, a także całe ścieżki z aplikacji np. Gemfile, app, app/models.
 -->
 
 ### Bibliografia
