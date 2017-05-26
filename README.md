@@ -116,23 +116,36 @@ Poprawna odmiana:<br>
 M. framework *Meteor*<br>
 D. frameworka *Meteor*
 
-### Gdzie stosujemy kursywę?
-1. Nazwy elementów będących w aplikacji np. *Galeria*, *Użytkownicy* itp. (jeżeli nazwa składa się z więcej niż jedno słowo to w pierwszym słowie należy użyć wielkiej litery).
-2. Obcojęzyczne słowa pospolite.
-3. Odniesienie do rozdziału w pracy np. „szczegóły znajdują się w rozdziale 1. *Wprowadzenie*” (kursywa obowiązuje jedynie w przypadku nazwy tytułu rozdziału, bez jego numeru).
-4. Słowa z języka angielskiego, które nie podlegają polskiej odmianie np. *responsive web design*, *progress bar*.
 
-### Gdzie nie stosujemy kursywy?
-1. Wymyślona nazwa aplikacji zarówno w tytule, jak i w całej pracy (wystarczą wielkie litery).
+### Gdzie stosujemy kursywę
+
+1. Nazwy elementów będących w aplikacji np. *Galeria*, *Użytkownicy* itp.
+  Jeżeli nazwa składa się z więcej niż jednego słowa, to w pierwszym słowie
+  należy użyć wielkiej litery.
+2. Obcojęzyczne słowa pospolite.
+3. Odniesienie do rozdziału w pracy np. „szczegóły znajdują się w rozdziale 1. *Wprowadzenie*”
+  (kursywa obowiązuje jedynie w przypadku nazwy tytułu rozdziału, bez jego numeru).
+4. Słowa z języka angielskiego, które nie podlegają polskiej odmianie
+  np. *responsive web design*, *progress bar*.
+
+
+### Gdzie nie stosujemy kursywy
+
+1. Wymyślone nazwy aplikacji zarówno w tytule, jak i w całej pracy (wystarczą wielkie litery).
 2. Nazwy aplikacji lub programów np. Wordpress, Joomla, Mozilla Firefox itp. (wystarczą wielkie litery).
-3. Skróty i ich rozwinięcia np. IDE = Integrated Development Environment (wystarczą wielkie litery).
-4. Nazwy technologii np. HTML5, CSS, Ruby on Rails itp. (wystarczą wielkie litery).
+3. Skróty i ich rozwinięcia np. IDE, Integrated Development Environment (wystarczą wielkie litery).
+4. Nazwy technologii np. HTML5, CSS, Ruby on Rails itp (wystarczą wielkie litery).
 5. Nazwy firmy np. Google (wystarczą wielkie litery).
-6. Obcojęzyczne nazwy własne np. miast, budynków czy znanych miejsc za granicą ([porada](http://sjp.pwn.pl/poradnia/haslo/obce-nazwy-wlasne;14087.html)).
-7. Nazwy klas, funkcji oraz zmiennych z aplikacji np. Component, PageContent.
-8. Nazwy bibliotek, które są użyte na potrzeby aplikacji np. friendly_id, zip-zip, Font Awesome, metisMenu.
-9. Nazwy plików, katalogów, a także całe ścieżki z aplikacji np. Gemfile, app, app/models.
-10. Słowa z języka angielskiego, które podlegają polskiej odmianie np. frontend, backend, routing.
+6. Obcojęzyczne nazwy własne np. miast, budynków czy znanych miejsc za granicą  
+  ([zob.](http://sjp.pwn.pl/poradnia/haslo/obce-nazwy-wlasne;14087.html))
+7. Nazwy bibliotek, które są użyte na potrzeby aplikacji np. friendly_id, zip-zip, Font Awesome, metisMenu.
+8. Nazwy plików, katalogów, a także całe ścieżki z aplikacji np. Gemfile, app, app/models.
+9. Słowa z języka angielskiego, które podlegają polskiej odmianie np. frontend, backend, routing.
+
+
+<!-- TODO: O’Reilly
+1. Nazwy klas, funkcji oraz zmiennych z aplikacji np. Component, PageContent.
+-->
 
 ### Bibliografia
 
