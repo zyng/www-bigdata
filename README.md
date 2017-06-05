@@ -18,8 +18,9 @@ Zagadnienia na egzamin licencjacki z informatyki:
 
 oraz
 
-* [wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
-* [warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
+* [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
+* [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
+* [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
 
 ## Git & LaTeX
