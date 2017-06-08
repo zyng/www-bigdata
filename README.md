@@ -216,3 +216,5 @@ Obrazki, tabelki, itp. Opisy takie jak w książce T. Piketty, „Kapitał w XXI
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
 1. [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
+1. [Bullshit Prevention Protocol (BPP)](http://www.lastwordonnothing.com/2014/04/29/the-pocket-guide-to-bullshit-prevention/);
+   zob. też [Calling Bullshit In the Age of Big Data](http://callingbullshit.org)
