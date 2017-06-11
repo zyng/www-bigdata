@@ -24,7 +24,7 @@
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
   Uzyskiwanie zwiększonej wydajności wraz z użytecznością przy zastosowaniu technologii AMP.
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr).
-  _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
+  _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta. Aplikacja webowa.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr).
   _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
 1. [Strzała Marek](https://github.com/MarekAG/mgr).
