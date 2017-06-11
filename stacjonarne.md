@@ -17,30 +17,34 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie). 
+### paździenik, 2017
+
+1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie).
   _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
-1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie). 
+1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
   Uzyskiwanie zwiększonej wydajności wraz z użytecznością przy zastosowaniu technologii AMP.
-1. [Kacprowicz Piotr](https://github.com/Undauted/mgr). 
+1. [Kacprowicz Piotr](https://github.com/Undauted/mgr).
   _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta.
-1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr). 
+1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr).
   _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
-1. [Strzała Marek](https://github.com/MarekAG/mgr). 
+1. [Strzała Marek](https://github.com/MarekAG/mgr).
   _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 
 
-<!--
-1. [Banasiak Daniel](https://bitbucket.org/DanBanasiak/crossplatformapplication). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
+### czerwiec–lipiec, 2017
+
 1. [Czarnecki Sebastian](https://github.com/sebcza/haris-eye). Analiza zachowań użytkownika dla samouczącego się systemu centralnego sterowania mieszkaniem.
-1. [Szymon Domurat](https://github.com/sdomurat/mgr). Serwisy internetowe korzystające z Web Components.
-1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EasyBlocks_ - interaktywne tworzenie responsywnych stron internetowych.
-1. [Łukasz Jercha](https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
 1. [Kiełb Michał](https://github.com/mkielb/masters-thesis). Hookable CMS - system zarządzania treścią wykorzystujący komponenty webowe.
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści.
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze.
 1. [Pieper Adrian](https://github.com/adrpieper/magisterka). _AdventureMaker_ – framework do terenowych gier RGP.
-1. [Paweł Zawodny](https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 
+<!--
+1. [Banasiak Daniel](https://bitbucket.org/DanBanasiak/crossplatformapplication). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
+1. [Szymon Domurat](https://github.com/sdomurat/mgr). Serwisy internetowe korzystające z Web Components.
+1. [Jaworski Adrian](https://github.com/emikser/magisterska). _EasyBlocks_ - interaktywne tworzenie responsywnych stron internetowych.
+1. [Łukasz Jercha](https://github.com/ljercha/MasterThesis). Natywna biblioteka „eForms” dla systemu iOS.
+1. [Paweł Zawodny](https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 
 
 ## Referaty, semestr letni 2016/17
