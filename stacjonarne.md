@@ -26,7 +26,7 @@
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr).
   _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta. Aplikacja webowa.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr).
-  _[nazwa aplikacji]_ – aplikacja mobilna do organizacji przewozu.
+  _Transp4You_ - natywna aplikacja mobilna czasu rzeczywistego wspomagająca organizację przewozu.
 1. [Strzała Marek](https://github.com/MarekAG/mgr).
   _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
 
