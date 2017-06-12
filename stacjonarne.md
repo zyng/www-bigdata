@@ -22,7 +22,7 @@
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie).
   _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
-  Uzyskiwanie zwiększonej wydajności wraz z użytecznością przy zastosowaniu technologii AMP.
+  AMP jako narzędzie przyśpieszanie stron internetowych z uwzględnieniem użyteczności
 1. [Kacprowicz Piotr](https://github.com/Undauted/mgr).
   _Safe3city_ – niebezpieczne miejsca na mapie Trójmiasta. Aplikacja webowa.
 1. [Małyszczuk Daniel](https://github.com/malyszdan/mgr).
