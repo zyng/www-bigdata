@@ -19,6 +19,13 @@
 
 ### paździenik, 2017
 
+Harmonogram rozliczania się z pracy:
+
+1. 19.08.2017 – wersja 1.0 aplikacji i tekstu pracy (LaTeX-u) w repozytorium.
+2. 04.09.2017 – wersja ostateczna pracy gotowa do oddania w Dziekanacie.
+
+----
+
 1. [Adamaszek Patryk](https://github.com/padamaszek/seminarium-magisterskie).
   _LetsGoSport_ – mobilna aplikacja na Android ułatwiająca spotykanie się z ludźmi w celu aktywności fizycznej.
 1. [Bogusław Człapiński](https://bitbucket.org/bczlapinski/seminarium-magisterskie).
@@ -29,7 +36,9 @@
   _Transp4You_ - natywna aplikacja mobilna czasu rzeczywistego wspomagająca organizację przewozu.
 1. [Strzała Marek](https://github.com/MarekAG/mgr).
   _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
+1. [Paweł Zawodny](https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 
+<!--
 
 ### czerwiec–lipiec, 2017
 
@@ -38,6 +47,8 @@
 1. [Kospat Pawłowska Natalia](https://bitbucket.org/nkopa/seminarium_responsywnetabele). Responsywne spojrzenie na tabele na stronach internetowych i sposoby prezentowania przez nie treści.
 1. [Lewandowski Piotr](https://github.com/piotrl/master-thesis). Analiza wpływu nawyków muzycznych na aktywności wykonywane przy komputerze.
 1. [Pieper Adrian](https://github.com/adrpieper/magisterka). _AdventureMaker_ – framework do terenowych gier RGP.
+
+-->
 
 <!--
 1. [Banasiak Daniel](https://bitbucket.org/DanBanasiak/crossplatformapplication). Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk.
