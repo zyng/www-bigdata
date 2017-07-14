@@ -17,8 +17,6 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-### paździenik, 2017
-
 Harmonogram rozliczania się z pracy:
 
 1. 19.08.2017 – wersja 1.0 aplikacji i tekstu pracy (LaTeX-u) w repozytorium.
