@@ -19,8 +19,10 @@
 
 Harmonogram rozliczania się z pracy:
 
-1. 19.08.2017 – wersja 1.0 aplikacji i tekstu pracy (w LaTeX-u) w repozytorium.
-2. 04.09.2017 – wersja ostateczna pracy gotowa do oddania w Dziekanacie.
+1. 19.08.2017 – wersja 1.0 aplikacji i tekstu pracy (w LaTeX-u) w repozytorium;
+  repozytorium powinno zawierać wszystko co zostało stworzone na potrzeby pracy;
+  działająca aplikacja powinna działać w chmurze (np. Heroku).
+2. 04.09.2017 – wersja ostateczna pracy gotowa do oddania w dziekanacie.
 
 ----
 
