@@ -34,7 +34,7 @@ Harmonogram rozliczania się z pracy:
   _Transp4You_ - natywna aplikacja mobilna czasu rzeczywistego wspomagająca organizację przewozu.
 1. [Strzała Marek](https://github.com/MarekAG/mgr).
   _Safe3city_ – niebezpieczne miejsca w Trójmieście. Aplikacja na system Android.
-1. [Paweł Zawodny](https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer - Scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
+1. [Paweł Zawodny](https://github.com/pawelzawodny/Praca-Magisterska). MountainWeatherViewer – scrapper i aplikacja do pozyskiwania, obróbki i prezentowania specjalistycznych danych pogodowych dla gór wysokich.
 
 <!--
 
