@@ -11,6 +11,8 @@ Harmonogram rozliczania się z pracy:
   działająca aplikacja wdrożona w chmurze (np. Heroku).
 2. 04.09.2017 – wersja ostateczna pracy gotowa do oddania w Dziekanacie.
 
+----
+
 1. [Buczyński Jakub](https://github.com/jbuczynski/magisterka)
 1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/mgr)
 1. [Michalski Mateusz](https://github.com/matismatis93/SemMgr)
