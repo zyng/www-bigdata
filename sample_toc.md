@@ -1,4 +1,4 @@
-## Przykładowy spis treści pracy magisterskiej\*
+## Przykładowy spis treści pracy licencjackiej\*
 
 \* Dotyczy prac, których głownym elementem jest aplikacja WWW.
 

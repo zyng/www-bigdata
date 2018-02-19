@@ -1,23 +1,25 @@
 ##  Milestones na egzamin licencjacki *w czerwcu*
 
-1. 04.03.20177 – pull request do z linkiem do repozytorium z plikiem
-    _README.md_ w którym wpisano tytuł pracy, autora, słowa kluczowe,
-    streszczenie, wstęp i literaturę. Przykładowe prace złożone w XeLaTeX-u –
-    [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr).
-1. 07.04.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem.
-1. 21.04.2017 – w repozytorium praca gotowa do korekty.
-1. 11.05.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
+1. ??.03.2018 – pull request do z linkiem do repozytorium z plikiem
+  _README.md_ w którym wpisano tytuł pracy, autora, słowa kluczowe,
+  streszczenie, wstęp i literaturę.
+  Przykładowe prace złożone w XeLaTeX-u – [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr).
+1. ??.04.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem.
+1. ??.04.2017 – w repozytorium praca gotowa do korekty.
+1. ??.05.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
    dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie));
-   ewentualnie można złożyć podanie do dziekana z prośbą o przedłużenie
-   terminu oddania pracy do 31.08.2017.
-1. 27.05.2016 – prezentacje.
+   ewentualnie (jeśli wyraże zgodę) można złożyć podanie do dziekana z prośbą
+   o przedłużenie terminu oddania pracy do 31.08.2017.
+1. ??.05.2016 – prezentacje gotowych prac.
+
 
 ## Tematy prac licencjackich
 
-1. [Marcin Dawidowski](https://github.com/mdawidowski/praca_licencjacka)
-1. [Mateusz Kleina](https://github.com/kirin1994/Licencjat)
-1. [Karol Klimaszewski](https://github.com/KKlimaszewski1/licencjat) 4.03
-1. [Kamil Pek](https://github.com/kamilpek/licencjat)
-1. [Dominika Pienczyn](https://github.com/dpienczyn/praca_licencjat) 4.03 18.03 25.03
-1. [Adrian Podlawski](https://github.com/kirin1994/Licencjat) 4.03
-1. [Marcin Szpaderski](https://github.com/mszpaderski/Sem) 4.03 18.03
+1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
+1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
+
+
+## Referaty, semestr letni 2017/18
+
+| kiedy?     | kto?            | tytuł |
+| :--------- | :-------------- | :---- |
