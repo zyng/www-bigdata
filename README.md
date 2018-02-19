@@ -19,9 +19,9 @@ oraz (wymagania z roku akad. 2016/17)
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
 * [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
-Prace piszemy w repozytoriach prywatnych na GitHub.
-W pracach zespołowych należy zastosować się do
-[Fork and Pull Request Workflow](https://github.com/susam/gitpr).
+Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
+W pracach zespołowych należy zastosować się do wskazówek opisanych w artykule
+[**Fork and Pull Request Workflow**](https://github.com/susam/gitpr).
 
 
 ## Git & LaTeX
