@@ -13,7 +13,7 @@ Zagadnienia na egzamin licencjacki z informatyki:
 * [studia stacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-stacjonarne)
 * [studia niestacjonarne](https://inf.ug.edu.pl/zagadnienia-na-egz-lic-studia-niestacjonarne)
 
-oraz
+oraz (wymagania z roku akad. 2016/17)
 
 * [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
