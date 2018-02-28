@@ -18,6 +18,7 @@
 Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 
 1. [Mateusz Labuda](https://github.com/mlabuda2/licencjat) Porównywarka kursów bukmacherskich 'BETCOM'
+2. [Artur Gołębiewski](https://github.com/mlabuda2/licencjat) Porównywarka kursów bukmacherskich 'BETCOM'
 
 ## Referaty, semestr letni 2017/18
 
