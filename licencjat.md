@@ -18,8 +18,10 @@
 Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 
 1. [Mateusz Labuda](https://github.com/mlabuda2/licencjat) Porównywarka kursów bukmacherskich 'BETCOM'
-2. [Artur Gołębiewski](https://github.com/mlabuda2/licencjat) Porównywarka kursów bukmacherskich 'BETCOM'
-3. [Klimaszewski Karol](https://github.com/KKlimaszewski1/licencjat) Sklep internetowy „Furteco”
+1. [Artur Gołębiewski](https://github.com/mlabuda2/licencjat) Porównywarka kursów bukmacherskich 'BETCOM'
+1. [Marcin Moroz](https://github.com/mo-net/licencjacka) Metodologie zwinne w pracy zespołu 2 linii wsparcia
+1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/licencjat) Sklep internetowy „Furteco”
+
 
 ## Referaty, semestr letni 2017/18
 
