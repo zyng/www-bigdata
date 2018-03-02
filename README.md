@@ -33,7 +33,8 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
 
 ---
 
-1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/).
+1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/):
+    * [Online Training](https://www.trifacta.com/support/articles/topics/125211/).
 
 
 ## Git & LaTeX
