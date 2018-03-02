@@ -10,7 +10,7 @@
    dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie));
    ewentualnie (jeśli wyraże zgodę) będzie można złożyć podanie do dziekana z prośbą
    o przedłużenie terminu oddania pracy do 31.08.2017.
-1. OD 11.05.2016 – prezentacje gotowych prac.
+1. Od 11.05.2016 – prezentacje gotowych prac.
 
 
 ## Tematy prac licencjackich
