@@ -4,7 +4,7 @@
   _README.md_ w którym wpisano tytuł pracy, autora, słowa kluczowe,
   streszczenie, wstęp i literaturę.
   Przykładowe prace złożone w XeLaTeX-u – [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr).
-1. 16.04.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem.
+1. 16.03.2017 – gotowy pdf z jednym kompletnym rozdziałem pracy oraz wstępem.
 1. 13.04.2017 – w repozytorium praca gotowa do korekty.
 1. 27.04.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
    dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie));
