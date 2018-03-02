@@ -8,7 +8,7 @@
 1. 13.04.2017 – w repozytorium praca gotowa do korekty.
 1. 27.04.2017 – w repozytorium ostateczna wersja pracy (pdf i pozostałe wymagane
    dokumenty, zob. [Prace dyplomowe (licencjackie)](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie));
-   ewentualnie (jeśli wyraże zgodę) można złożyć podanie do dziekana z prośbą
+   ewentualnie (jeśli wyraże zgodę) będzie można złożyć podanie do dziekana z prośbą
    o przedłużenie terminu oddania pracy do 31.08.2017.
 1. OD 11.05.2016 – prezentacje gotowych prac.
 
