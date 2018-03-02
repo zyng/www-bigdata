@@ -24,6 +24,18 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
 [**Fork and Pull Request Workflow**](https://github.com/susam/gitpr).
 
 
+## Literatura & Software
+
+1. Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker.
+[Readings in Database Systems, 5th Edition](http://www.redbook.io):
+    * [11. A Biased Take on a Moving Target: Complex Analytics](http://www.redbook.io/ch11-complexanalytics.html)
+      by Michael Stonebraker
+
+---
+
+1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/).
+
+
 ## Git & LaTeX
 
 - [ ] Prace przygotowujemy w repozytoriach prywatnych na GitHub.
