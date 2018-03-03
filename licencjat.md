@@ -20,6 +20,7 @@ Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 1. [Artur Gołębiewski, Mateusz Labuda, Martin Madej, Mateusz Kaminski](https://github.com/mlabuda2/licencjat). Porównywarka kursów bukmacherskich „BETCOM”.
 1. [Marcin Moroz](https://github.com/mo-net/licencjacka). Metodologie zwinne w pracy zespołu 2 linii wsparcia.
 1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/licencjat). Sklep internetowy „Furteco”.
+1. [Maciej Marzec, Ewelina Mazur, Rafał Kulasiewicz](https://github.com/dzyzus/licencjat-smarthome).
 
 
 ## Referaty, semestr letni 2017/18
