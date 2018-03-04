@@ -32,11 +32,14 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
       by Joe Hellerstein.
     * [Chapter 11. A Biased Take on a Moving Target: Complex Analytics](http://www.redbook.io/ch11-complexanalytics.html)
       by Michael Stonebraker.
+    * [Chapter 12: A Biased Take on a Moving Target: Data Integration](http://www.redbook.io/ch12-dataintegration.html)
+      by Michael Stonebraker
 
 ---
 
 1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/):
     * [Online Training](https://www.trifacta.com/support/articles/topics/125211/).
+1. [OpenRefine](http://openrefine.org/).
 
 ----
 
