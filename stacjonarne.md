@@ -17,12 +17,8 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
-1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 1. Daniluk, Karol. Kotowicz, Daria. [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 1. Szymon Domurat. [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr)
-
-
 
 
 ## Referaty, semestr letni 2017/18
