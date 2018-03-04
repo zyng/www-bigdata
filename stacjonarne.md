@@ -20,6 +20,7 @@
 1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 1. Proszę wpisać: Nazwisko, Imię. Tytuł pracy.
 1. Daniluk, Karol. Kotowicz, Daria. [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
+1. Szymon Domurat. [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr)
 
 
 
