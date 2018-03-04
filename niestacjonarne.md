@@ -1,6 +1,7 @@
 ## Tematy prac magisterskich
 
-1. Proszę wpisać: [Tytuł pracy](link do prywatnego repo w chmurze GitHub).
+1. Weronika Majewska, 
+  [Testowanie aplikacji operatej o architekturę mikroserwisów](/).
 
 
 ## Referaty, semestr letni 2017/18
