@@ -24,7 +24,7 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
 [**Fork and Pull Request Workflow**](https://github.com/susam/gitpr).
 
 
-## Literatura & Software
+## Literatura, Software & GDPR
 
 1. Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker.
 [Readings in Database Systems, 5th Edition](http://www.redbook.io):
@@ -35,6 +35,17 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
 
 1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/):
     * [Online Training](https://www.trifacta.com/support/articles/topics/125211/).
+
+----
+
+The General Data Protection Regulation (GDPR) becomes enforceable across Europe
+on **25 May 2018**.
+
+1. Bozhidar Bozhanov.
+  [GDPR – A practical guide for developers](https://techblog.bozho.net/gdpr-practical-guide-developers/).
+    * [Protecting sensitive data](https://techblog.bozho.net/protecting-sensitive-data/).
+1. Heather Burns.
+  [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/).
 
 
 ## Git & LaTeX
