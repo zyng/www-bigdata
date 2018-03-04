@@ -28,8 +28,10 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
 
 1. Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker.
 [Readings in Database Systems, 5th Edition](http://www.redbook.io):
-    * [11. A Biased Take on a Moving Target: Complex Analytics](http://www.redbook.io/ch11-complexanalytics.html)
-      by Michael Stonebraker
+    * [Chapter 9: Languages](http://www.redbook.io/ch9-languages.html)
+      by Joe Hellerstein.
+    * [Chapter 11. A Biased Take on a Moving Target: Complex Analytics](http://www.redbook.io/ch11-complexanalytics.html)
+      by Michael Stonebraker.
 
 ---
 
