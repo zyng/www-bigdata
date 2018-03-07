@@ -19,6 +19,7 @@
 
 1. Daniluk, Karol. Kotowicz, Daria. [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 1. Szymon Domurat. [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr)
+1. Damian Kalinowski, Rafał Lewandowski. [Analiza wypowiedzi w czasie rzeczywistym bazująca na wybranych metodach eksploracji tekstu](https://github.com/lafreak/mgr)
 
 
 ## Referaty, semestr letni 2017/18
