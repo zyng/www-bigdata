@@ -16,7 +16,7 @@
 ## Tematy prac licencjackich
 
 1. Artur Gołębiewski, Mateusz Kaminski, Mateusz Labuda, Martin Madej.
-[Porównywarka kursów bukmacherskich „BETCOM”]((https://github.com/mlabuda2/licencjat).
+[Porównywarka kursów bukmacherskich „BETCOM”](https://github.com/mlabuda2/licencjat).
 
 1. Marcin Moroz.
 [Metodologie zwinne w pracy zespołu 2 linii wsparcia](https://github.com/mo-net/licencjacka).
