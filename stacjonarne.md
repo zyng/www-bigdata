@@ -17,7 +17,7 @@
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-1. Karol Daniluk. Daria Kotowicz.
+1. Karol Daniluk, Daria Kotowicz.
 [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 
 1. Damian Kalinowski, Rafał Lewandowski.
