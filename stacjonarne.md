@@ -32,6 +32,8 @@
 1. Jaszczyszyn Piotr.
 [Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
 
+1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
+
 ## Referaty, semestr letni 2017/18
 
 | kiedy?     | kto?            | tytuł |
