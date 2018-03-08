@@ -26,6 +26,9 @@
 1. Szymon Domurat.
 [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
+1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
+[Składowe nowoczesnych portali społecznościowych na przykładzie internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
+
 
 ## Referaty, semestr letni 2017/18
 
