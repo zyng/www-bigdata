@@ -29,6 +29,8 @@
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
 [Składowe nowoczesnych portali społecznościowych na przykładzie internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
 
+1. Jaszczyszyn Piotr.
+[Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
 
 ## Referaty, semestr letni 2017/18
 
