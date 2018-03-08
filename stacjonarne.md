@@ -26,6 +26,8 @@
 1. Szymon Domurat.
 [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
+1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
+
 
 ## Referaty, semestr letni 2017/18
 
